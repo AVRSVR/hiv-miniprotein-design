@@ -18,7 +18,7 @@ Many candidate designs were generated across both approaches.
 All candidates were folded with AlphaFold2 and scored (confidence/interface metrics) to compare the two design strategies head-to-head and select the strongest candidates for further refinement.
 
 **4. Iterative refinement with Proteus**
-The top candidates were carried forward into an iterative refinement loop using **[Proteus](https://proteus-5kpn.onrender.com/)**, our tool for automating the generate-check-refine cycle: candidate variants were generated across several design strategies, each checked with a short molecular dynamics stability run, and only designs passing the stability check were advanced to the next round of modification. This loop was repeated across multiple strategies until convergence on a final design.
+The top candidates were carried forward into an iterative refinement loop using **[Proteus](https://proteus-5kpn.onrender.com/)** — our own in-house tool built to automate the generate-check-refine cycle for protein design. Proteus generates candidate variants across several design strategies, runs a short molecular dynamics stability check on each, and only advances designs that pass the check to the next round of modification. This loop was repeated across multiple strategies until convergence on a final design.
 
 **5. Final design: a bispecific HIV engager**
 The refinement loop converged on a bispecific miniprotein design (`Strategy_E_Bispecific_Engager`, internally also referenced as `God_Particle_Chai1_Best`): one arm binds the HIV gp120 CD4-binding site, while the second arm is designed to engage immune cells, aiming to physically bridge the virus and the immune system.
@@ -61,7 +61,9 @@ This repo shows the pipeline and the final result, not every intermediate artifa
 
 ## Final design
 
-The final structure (`results/final_design.pdb`) remained stable over a 2 ns explicit-solvent MD run — see `media/md_2ns_run.mp4` for the trajectory and the plot above for the stability metrics.
+The final structure (`results/final_design.pdb`) remained stable over a 2 ns explicit-solvent MD run — see the plot above for the stability metrics and the trajectory video below.
+
+**MD trajectory (2 ns, water/ions hidden for visualization):** [media/md_2ns_run.mp4](media/md_2ns_run.mp4)
 
 ## Requirements
 
