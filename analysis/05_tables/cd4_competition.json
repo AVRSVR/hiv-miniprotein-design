@@ -1,0 +1,188 @@
+{
+  "reference": "1GC1 (gp120 core + CD4 D1D2 + 17b Fab)",
+  "clash_cutoffs_A": {
+    "hard": 3.0,
+    "contact": 4.5
+  },
+  "per_design": [
+    {
+      "design": "Chai1_Best",
+      "gp120_superposition_residues": 295,
+      "cd4_epitope_fit_RMSD_A": 5.52,
+      "global_gp120_RMSD_A": 7.01,
+      "binder_CD4_min_dist_A": 20.62,
+      "binder_CD4_clash_atoms_3A": 0,
+      "binder_CD4_contact_atoms_4.5A": 0,
+      "binder_17b_min_dist_A": 3.31,
+      "binder_17b_clash_atoms_3A": 0,
+      "CD4_competition": "non-competitive"
+    },
+    {
+      "design": "Cyclic_Ring",
+      "gp120_superposition_residues": 295,
+      "cd4_epitope_fit_RMSD_A": 5.52,
+      "global_gp120_RMSD_A": 7.01,
+      "binder_CD4_min_dist_A": 0.73,
+      "binder_CD4_clash_atoms_3A": 161,
+      "binder_CD4_contact_atoms_4.5A": 536,
+      "binder_17b_min_dist_A": 19.86,
+      "binder_17b_clash_atoms_3A": 0,
+      "CD4_competition": "CD4-blocking"
+    },
+    {
+      "design": "Latest_Best",
+      "gp120_superposition_residues": 295,
+      "cd4_epitope_fit_RMSD_A": 5.52,
+      "global_gp120_RMSD_A": 7.01,
+      "binder_CD4_min_dist_A": 19.25,
+      "binder_CD4_clash_atoms_3A": 0,
+      "binder_CD4_contact_atoms_4.5A": 0,
+      "binder_17b_min_dist_A": 0.24,
+      "binder_17b_clash_atoms_3A": 414,
+      "CD4_competition": "non-competitive"
+    },
+    {
+      "design": "S310",
+      "gp120_superposition_residues": 295,
+      "cd4_epitope_fit_RMSD_A": 2.01,
+      "global_gp120_RMSD_A": 2.45,
+      "binder_CD4_min_dist_A": 0.17,
+      "binder_CD4_clash_atoms_3A": 4530,
+      "binder_CD4_contact_atoms_4.5A": 13054,
+      "binder_17b_min_dist_A": 10.22,
+      "binder_17b_clash_atoms_3A": 0,
+      "CD4_competition": "CD4-blocking"
+    },
+    {
+      "design": "docked_complex",
+      "gp120_superposition_residues": 244,
+      "cd4_epitope_fit_RMSD_A": 26.31,
+      "global_gp120_RMSD_A": 36.06,
+      "binder_CD4_min_dist_A": 4.16,
+      "binder_CD4_clash_atoms_3A": 0,
+      "binder_CD4_contact_atoms_4.5A": 2,
+      "binder_17b_min_dist_A": 26.54,
+      "binder_17b_clash_atoms_3A": 0,
+      "CD4_competition": "non-competitive"
+    },
+    {
+      "design": "model_4_chai",
+      "gp120_superposition_residues": 295,
+      "cd4_epitope_fit_RMSD_A": 5.52,
+      "global_gp120_RMSD_A": 7.01,
+      "binder_CD4_min_dist_A": 0.51,
+      "binder_CD4_clash_atoms_3A": 130,
+      "binder_CD4_contact_atoms_4.5A": 551,
+      "binder_17b_min_dist_A": 3.87,
+      "binder_17b_clash_atoms_3A": 0,
+      "CD4_competition": "CD4-blocking"
+    }
+  ],
+  "pairwise_cobinding": [
+    {
+      "design_1": "Chai1_Best",
+      "design_2": "Cyclic_Ring",
+      "min_dist_A": 26.54,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Chai1_Best",
+      "design_2": "Latest_Best",
+      "min_dist_A": 0.11,
+      "clash_atoms_3A": 528,
+      "co_binding": "mutually exclusive"
+    },
+    {
+      "design_1": "Chai1_Best",
+      "design_2": "S310",
+      "min_dist_A": 21.58,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Chai1_Best",
+      "design_2": "docked_complex",
+      "min_dist_A": 22.63,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Chai1_Best",
+      "design_2": "model_4_chai",
+      "min_dist_A": 11.3,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Cyclic_Ring",
+      "design_2": "Latest_Best",
+      "min_dist_A": 24.83,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Cyclic_Ring",
+      "design_2": "S310",
+      "min_dist_A": 0.83,
+      "clash_atoms_3A": 121,
+      "co_binding": "mutually exclusive"
+    },
+    {
+      "design_1": "Cyclic_Ring",
+      "design_2": "docked_complex",
+      "min_dist_A": 9.09,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Cyclic_Ring",
+      "design_2": "model_4_chai",
+      "min_dist_A": 12.95,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Latest_Best",
+      "design_2": "S310",
+      "min_dist_A": 19.46,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Latest_Best",
+      "design_2": "docked_complex",
+      "min_dist_A": 27.49,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "Latest_Best",
+      "design_2": "model_4_chai",
+      "min_dist_A": 21.15,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "S310",
+      "design_2": "docked_complex",
+      "min_dist_A": 5.18,
+      "clash_atoms_3A": 0,
+      "co_binding": "compatible"
+    },
+    {
+      "design_1": "S310",
+      "design_2": "model_4_chai",
+      "min_dist_A": 0.77,
+      "clash_atoms_3A": 98,
+      "co_binding": "mutually exclusive"
+    },
+    {
+      "design_1": "docked_complex",
+      "design_2": "model_4_chai",
+      "min_dist_A": 0.75,
+      "clash_atoms_3A": 42,
+      "co_binding": "mutually exclusive"
+    }
+  ]
+}

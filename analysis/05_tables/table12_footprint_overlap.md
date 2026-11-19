@@ -1,0 +1,7 @@
+| Design                        |   Binder footprint (res) | Shared with CD4 footprint   |   % of CD4 footprint | Shared with 17b footprint   |   % of 17b footprint |
+|:------------------------------|-------------------------:|:----------------------------|---------------------:|:----------------------------|---------------------:|
+| D1 (CD4-mimetic control)      |                       33 | 29/30                       |                 96.7 | 0/15                        |                  0   |
+| D2 (de novo bispecific)       |                       16 | 0/30                        |                  0   | 0/15                        |                  0   |
+| D3 (CD4-mimetic cyclic)       |                       28 | 9/30                        |                 30   | 0/15                        |                  0   |
+| D2' (alternative pose)        |                       16 | 5/30                        |                 16.7 | 0/15                        |                  0   |
+| D5 (de novo, coreceptor site) |                       30 | 0/30                        |                  0   | 5/15                        |                 33.3 |

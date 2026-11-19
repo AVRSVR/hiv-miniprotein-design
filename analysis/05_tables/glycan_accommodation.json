@@ -1,0 +1,169 @@
+{
+  "search": {
+    "poses": 25000,
+    "seed": 20260211,
+    "max_translation_A": 4.0,
+    "max_rotation_deg": 20.0,
+    "criteria": {
+      "glycan_clash_A": 3.0,
+      "self_clash_A": 2.5,
+      "contact_A": 4.5
+    }
+  },
+  "note": "rigid binder, rigid glycans, glycans as resolved in 6V8X; an accessibility test, not an affinity calculation",
+  "partners": {
+    "D5": {
+      "clash_budget_curve": {
+        "0%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": null
+        },
+        "5%": {
+          "max_clashes_allowed": 3,
+          "contacts_retained_pct": null
+        },
+        "10%": {
+          "max_clashes_allowed": 5,
+          "contacts_retained_pct": null
+        },
+        "25%": {
+          "max_clashes_allowed": 13,
+          "contacts_retained_pct": 32.2
+        },
+        "50%": {
+          "max_clashes_allowed": 26,
+          "contacts_retained_pct": 45.1
+        }
+      },
+      "modelled_pose": {
+        "glycan_clashes": 52,
+        "contacts": 435,
+        "self_clashes": 0,
+        "neighbour_clashes": 0,
+        "closest_receptor_approach_A": 16.28
+      },
+      "poses_sampled": 25000,
+      "max_translation_A": 4.0,
+      "max_rotation_deg": 20.0,
+      "glycan_free_pose_found": false,
+      "lowest_glycan_clashes_reached": 7,
+      "contacts_at_that_pose": 56,
+      "contacts_retained_pct": 12.9
+    },
+    "D2": {
+      "clash_budget_curve": {
+        "0%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": null
+        },
+        "5%": {
+          "max_clashes_allowed": 5,
+          "contacts_retained_pct": null
+        },
+        "10%": {
+          "max_clashes_allowed": 10,
+          "contacts_retained_pct": null
+        },
+        "25%": {
+          "max_clashes_allowed": 24,
+          "contacts_retained_pct": null
+        },
+        "50%": {
+          "max_clashes_allowed": 48,
+          "contacts_retained_pct": 59.4
+        }
+      },
+      "modelled_pose": {
+        "glycan_clashes": 96,
+        "contacts": 340,
+        "self_clashes": 0,
+        "neighbour_clashes": 0,
+        "closest_receptor_approach_A": 12.26
+      },
+      "poses_sampled": 25000,
+      "max_translation_A": 4.0,
+      "max_rotation_deg": 20.0,
+      "glycan_free_pose_found": false,
+      "lowest_glycan_clashes_reached": 30,
+      "contacts_at_that_pose": 99,
+      "contacts_retained_pct": 29.1
+    },
+    "D2p": {
+      "clash_budget_curve": {
+        "0%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": null
+        },
+        "5%": {
+          "max_clashes_allowed": 4,
+          "contacts_retained_pct": null
+        },
+        "10%": {
+          "max_clashes_allowed": 9,
+          "contacts_retained_pct": null
+        },
+        "25%": {
+          "max_clashes_allowed": 22,
+          "contacts_retained_pct": null
+        },
+        "50%": {
+          "max_clashes_allowed": 44,
+          "contacts_retained_pct": 113.1
+        }
+      },
+      "modelled_pose": {
+        "glycan_clashes": 87,
+        "contacts": 289,
+        "self_clashes": 0,
+        "neighbour_clashes": 0,
+        "closest_receptor_approach_A": 14.25
+      },
+      "poses_sampled": 25000,
+      "max_translation_A": 4.0,
+      "max_rotation_deg": 20.0,
+      "glycan_free_pose_found": false,
+      "lowest_glycan_clashes_reached": 10,
+      "contacts_at_that_pose": 443,
+      "contacts_retained_pct": 153.3
+    },
+    "D3": {
+      "clash_budget_curve": {
+        "0%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": 218.8
+        },
+        "5%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": 218.8
+        },
+        "10%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": 218.8
+        },
+        "25%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": 218.8
+        },
+        "50%": {
+          "max_clashes_allowed": 0,
+          "contacts_retained_pct": 218.8
+        }
+      },
+      "modelled_pose": {
+        "glycan_clashes": 0,
+        "contacts": 293,
+        "self_clashes": 0,
+        "neighbour_clashes": 0,
+        "closest_receptor_approach_A": 13.55
+      },
+      "poses_sampled": 25000,
+      "max_translation_A": 4.0,
+      "max_rotation_deg": 20.0,
+      "glycan_free_pose_found": true,
+      "translation_A": 0.0,
+      "rotation_deg": 0.0,
+      "contacts": 293,
+      "contacts_retained_pct": 100.0
+    }
+  }
+}

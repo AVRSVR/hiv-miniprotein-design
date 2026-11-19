@@ -4,6 +4,14 @@ Computational design and structural characterization of miniprotein binders agai
 
 Epitopes were determined **from the structures themselves** rather than assumed from design intent — and the result was not what the campaign targeted. The designs engage surfaces *outside* the CD4-binding site, including one that blocks the coreceptor-binding site, and designs at independent surfaces can engage gp120 simultaneously.
 
+## Full analysis
+
+[`analysis/`](analysis/) holds the complete structural and energetic analysis behind the results below, as code and data rather than prose. [`analysis/scripts/`](analysis/scripts/) is one script per result, [`analysis/05_tables/`](analysis/05_tables/) the derived tables as CSV and Markdown beside the JSON they were generated from, [`analysis/04_figures/`](analysis/04_figures/) every figure, and [`analysis/01_structures/`](analysis/01_structures/) the complexes and reference structures each measurement reads.
+
+Nothing in there is hand-entered. Each analysis writes its own JSON, the table builders read that JSON, and the plot scripts read the same JSON, so no number exists in two places. [`analysis/README.md`](analysis/README.md) is a running method note: what each analysis does, what it found, and in several cases what went wrong first.
+
+Raw molecular dynamics trajectories (around 200 MB of DCD) are kept out of version control and are available on request.
+
 ## Approach
 
 **1. Target preparation**
@@ -68,6 +76,7 @@ docs/           Methods notes
 This repo shows the pipeline and the headline results, not every intermediate artifact:
 - The full set of trial designs and rejected candidates
 - Intermediate scoring data and logs
+- Raw MD trajectories (available on request)
 - Proteus source code (internal tooling — see [proteus-5kpn.onrender.com](https://proteus-5kpn.onrender.com/))
 
 ## Requirements

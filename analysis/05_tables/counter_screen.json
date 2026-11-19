@@ -1,0 +1,48 @@
+{
+  "placements_per_target": 8,
+  "seed": 20261106,
+  "minimisation_steps": 1500,
+  "complete": true,
+  "method": "binder presented face-on at random target surface points, slid to contact, minimised identically, scored by MM/GBSA; identical procedure on every target including gp120",
+  "limits": "N placements is not a docking search, so each best score is an upper bound; the comparison between targets is fair because the procedure is identical",
+  "designs": {
+    "Latest_Best": {
+      "label": "D5 de novo, coreceptor site",
+      "designed_pose_on_gp120_kcal": -50.9,
+      "targets": {
+        "gp120": {
+          "n_placements": 8,
+          "attempts": 80,
+          "best_kcal": -11.1,
+          "median_kcal": -5.3,
+          "mean_kcal": -6.3,
+          "sd_kcal": 3.4
+        },
+        "HSA_1AO6": {
+          "n_placements": 8,
+          "attempts": 63,
+          "best_kcal": -26.2,
+          "median_kcal": -10.2,
+          "mean_kcal": -11.3,
+          "sd_kcal": 6.7
+        },
+        "lysozyme_1DPX": {
+          "n_placements": 8,
+          "attempts": 31,
+          "best_kcal": -19.3,
+          "median_kcal": -10.3,
+          "mean_kcal": -11.4,
+          "sd_kcal": 4.3
+        },
+        "ubiquitin_1UBQ": {
+          "n_placements": 8,
+          "attempts": 64,
+          "best_kcal": -14.7,
+          "median_kcal": -10.9,
+          "mean_kcal": -9.8,
+          "sd_kcal": 3.7
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "cutoff_A": 5.0,
+  "per_design": [
+    {
+      "design": "S310",
+      "label": "D1 (CD4-mimetic control)",
+      "binder_footprint_res": 33,
+      "cd4_footprint_res": 30,
+      "17b_footprint_res": 15,
+      "shared_with_CD4": 29,
+      "shared_with_17b": 0,
+      "pct_of_CD4_footprint": 96.7,
+      "pct_of_17b_footprint": 0.0
+    },
+    {
+      "design": "Chai1_Best",
+      "label": "D2 (de novo bispecific)",
+      "binder_footprint_res": 16,
+      "cd4_footprint_res": 30,
+      "17b_footprint_res": 15,
+      "shared_with_CD4": 0,
+      "shared_with_17b": 0,
+      "pct_of_CD4_footprint": 0.0,
+      "pct_of_17b_footprint": 0.0
+    },
+    {
+      "design": "Cyclic_Ring",
+      "label": "D3 (CD4-mimetic cyclic)",
+      "binder_footprint_res": 28,
+      "cd4_footprint_res": 30,
+      "17b_footprint_res": 15,
+      "shared_with_CD4": 9,
+      "shared_with_17b": 0,
+      "pct_of_CD4_footprint": 30.0,
+      "pct_of_17b_footprint": 0.0
+    },
+    {
+      "design": "model_4_chai",
+      "label": "D2' (alternative pose)",
+      "binder_footprint_res": 16,
+      "cd4_footprint_res": 30,
+      "17b_footprint_res": 15,
+      "shared_with_CD4": 5,
+      "shared_with_17b": 0,
+      "pct_of_CD4_footprint": 16.7,
+      "pct_of_17b_footprint": 0.0
+    },
+    {
+      "design": "Latest_Best",
+      "label": "D5 (de novo, coreceptor site)",
+      "binder_footprint_res": 30,
+      "cd4_footprint_res": 30,
+      "17b_footprint_res": 15,
+      "shared_with_CD4": 0,
+      "shared_with_17b": 5,
+      "pct_of_CD4_footprint": 0.0,
+      "pct_of_17b_footprint": 33.3
+    }
+  ]
+}

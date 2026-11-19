@@ -1,0 +1,11 @@
+| Partner                          |   Footprint residues |   Scored against the alignment |   Mean conservation (%) |   Residues >= 90% conserved |   Fraction >= 90% conserved (%) |   Difference from gp120 mean (pp) |
+|:---------------------------------|---------------------:|-------------------------------:|------------------------:|----------------------------:|--------------------------------:|----------------------------------:|
+| CD4 (experimental reference)     |                   30 |                             30 |                    90   |                          19 |                            63.3 |                              10.3 |
+| 17b Fab (experimental reference) |                   15 |                             15 |                    87.1 |                           9 |                            60   |                               7.4 |
+| D1 (CD4-mimetic control)         |                   41 |                             41 |                    86.3 |                          23 |                            56.1 |                               6.7 |
+| D2 (de novo bispecific)          |                   22 |                             22 |                    73.5 |                           8 |                            36.4 |                              -6.2 |
+| D2' (alternative pose)           |                   24 |                             24 |                    73.8 |                           9 |                            37.5 |                              -5.9 |
+| D3 (CD4-mimetic cyclic)          |                   25 |                             25 |                    86.8 |                          14 |                            56   |                               7.2 |
+| D5 (de novo, coreceptor site)    |                   30 |                             30 |                    74   |                          13 |                            43.3 |                              -5.7 |
+
+Conservation is the modal-residue frequency over 2948 cluster representatives drawn from 4284 full-length group M Env records; the gp120 mean over all 481 scored positions is 79.6%. Footprints are the gp120 residues within 5.0 A of the partner, defined identically for the designs and for the two experimental references.

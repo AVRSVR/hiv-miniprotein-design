@@ -1,0 +1,55 @@
+{
+  "tag": "Tandem_D1_D5",
+  "n_frames": 200,
+  "protocol": "2 fs timestep, no hydrogen mass repartitioning, 20000-step minimisation, 4x20 ps heating ramp",
+  "per_group": {
+    "arm1_D1": {
+      "n_res": 97,
+      "contacts_start": 224,
+      "contacts_mean": 208.06,
+      "contacts_final_half": 209.0,
+      "contacts_retained_pct": 93.3,
+      "min_dist_mean_A": 2.68,
+      "min_dist_final_A": 2.67,
+      "bound_at_end": true,
+      "n_near_receptor_ca": 54,
+      "iRMSD_mean_A": 1.98,
+      "iRMSD_final_half_A": 2.36,
+      "iRMSD_max_A": 3.58,
+      "fold_RMSD_final_half_A": 1.26
+    },
+    "linker": {
+      "n_res": 22,
+      "contacts_start": 75,
+      "contacts_mean": 82.635,
+      "contacts_final_half": 69.9,
+      "contacts_retained_pct": 93.2,
+      "min_dist_mean_A": 2.87,
+      "min_dist_final_A": 2.87,
+      "bound_at_end": true,
+      "n_near_receptor_ca": 24
+    },
+    "arm2_D5": {
+      "n_res": 66,
+      "contacts_start": 160,
+      "contacts_mean": 160.615,
+      "contacts_final_half": 165.96,
+      "contacts_retained_pct": 103.7,
+      "min_dist_mean_A": 2.2,
+      "min_dist_final_A": 2.18,
+      "bound_at_end": true,
+      "n_near_receptor_ca": 35,
+      "iRMSD_mean_A": 2.96,
+      "iRMSD_final_half_A": 3.22,
+      "iRMSD_max_A": 5.02,
+      "fold_RMSD_final_half_A": 1.48
+    }
+  },
+  "linker_geometry": {
+    "linker_CA_CA_start_min_A": 2.95,
+    "linker_CA_CA_start_below_3.4A": 4,
+    "linker_CA_CA_end_min_A": 2.95,
+    "linker_CA_CA_end_below_3.4A": 4,
+    "linker_CA_CA_end_mean_A": 3.69
+  }
+}

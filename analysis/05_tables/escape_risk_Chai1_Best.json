@@ -1,0 +1,213 @@
+{
+  "design": "Chai1_Best",
+  "label": "D2",
+  "n_frames": 8,
+  "wt_dG_kJ_mol": -241.4,
+  "contacts": [
+    {
+      "resname": "GLN",
+      "hxb2_pos": 293,
+      "ddG_kcal_mol": 3.86,
+      "conservation": 0.452,
+      "escape_risk": 0.152
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 295,
+      "ddG_kcal_mol": 2.79,
+      "conservation": 0.702,
+      "escape_risk": 0.06
+    },
+    {
+      "resname": "CYS",
+      "hxb2_pos": 296,
+      "ddG_kcal_mol": 0.21,
+      "conservation": 0.998,
+      "escape_risk": 0.0
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 297,
+      "ddG_kcal_mol": 13.94,
+      "conservation": 0.814,
+      "escape_risk": 0.186
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 298,
+      "ddG_kcal_mol": 0.43,
+      "conservation": 0.998,
+      "escape_risk": 0.0
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 301,
+      "ddG_kcal_mol": 4.06,
+      "conservation": 0.955,
+      "escape_risk": 0.013
+    },
+    {
+      "resname": "ASP",
+      "hxb2_pos": 325,
+      "ddG_kcal_mol": 0.77,
+      "conservation": 0.829,
+      "escape_risk": 0.009
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 327,
+      "ddG_kcal_mol": 2.5,
+      "conservation": 0.978,
+      "escape_risk": 0.004
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 328,
+      "ddG_kcal_mol": -0.2,
+      "conservation": 0.648,
+      "escape_risk": null
+    },
+    {
+      "resname": "HIS",
+      "hxb2_pos": 330,
+      "ddG_kcal_mol": 0.8,
+      "conservation": 0.7,
+      "escape_risk": 0.017
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 332,
+      "ddG_kcal_mol": 6.48,
+      "conservation": 0.776,
+      "escape_risk": 0.104
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 333,
+      "ddG_kcal_mol": 0.1,
+      "conservation": 0.614,
+      "escape_risk": 0.003
+    },
+    {
+      "resname": "SER",
+      "hxb2_pos": 334,
+      "ddG_kcal_mol": 4.8,
+      "conservation": 0.726,
+      "escape_risk": 0.094
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 337,
+      "ddG_kcal_mol": 1.63,
+      "conservation": 0.377,
+      "escape_risk": 0.073
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 442,
+      "ddG_kcal_mol": 4.32,
+      "conservation": 0.272,
+      "escape_risk": 0.226
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 444,
+      "ddG_kcal_mol": 4.3,
+      "conservation": 0.36,
+      "escape_risk": 0.197
+    }
+  ],
+  "top_escape_risk": [
+    {
+      "resname": "VAL",
+      "hxb2_pos": 442,
+      "ddG_kcal_mol": 4.32,
+      "conservation": 0.272,
+      "escape_risk": 0.226
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 444,
+      "ddG_kcal_mol": 4.3,
+      "conservation": 0.36,
+      "escape_risk": 0.197
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 297,
+      "ddG_kcal_mol": 13.94,
+      "conservation": 0.814,
+      "escape_risk": 0.186
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 293,
+      "ddG_kcal_mol": 3.86,
+      "conservation": 0.452,
+      "escape_risk": 0.152
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 332,
+      "ddG_kcal_mol": 6.48,
+      "conservation": 0.776,
+      "escape_risk": 0.104
+    },
+    {
+      "resname": "SER",
+      "hxb2_pos": 334,
+      "ddG_kcal_mol": 4.8,
+      "conservation": 0.726,
+      "escape_risk": 0.094
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 337,
+      "ddG_kcal_mol": 1.63,
+      "conservation": 0.377,
+      "escape_risk": 0.073
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 295,
+      "ddG_kcal_mol": 2.79,
+      "conservation": 0.702,
+      "escape_risk": 0.06
+    },
+    {
+      "resname": "HIS",
+      "hxb2_pos": 330,
+      "ddG_kcal_mol": 0.8,
+      "conservation": 0.7,
+      "escape_risk": 0.017
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 301,
+      "ddG_kcal_mol": 4.06,
+      "conservation": 0.955,
+      "escape_risk": 0.013
+    }
+  ],
+  "escape_resistant_contacts": [
+    {
+      "resname": "ASN",
+      "hxb2_pos": 301,
+      "ddG_kcal_mol": 4.06,
+      "conservation": 0.955,
+      "escape_risk": 0.013
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 327,
+      "ddG_kcal_mol": 2.5,
+      "conservation": 0.978,
+      "escape_risk": 0.004
+    }
+  ],
+  "conservation_source": {
+    "sequences": 4284,
+    "clusters": 2948,
+    "estimator": "modal residue frequency over 98%-identity cluster representatives"
+  }
+}

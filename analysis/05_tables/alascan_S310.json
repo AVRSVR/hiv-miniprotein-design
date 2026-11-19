@@ -1,0 +1,217 @@
+{
+  "design": "S310",
+  "label": "D1",
+  "n_frames": 10,
+  "wt_dG_kJ_mol": -462.5,
+  "n_hotspots": 22,
+  "residues": [
+    {
+      "resname": "PHE",
+      "resid": 43,
+      "ddG_kJ_mol": 39.71,
+      "ddG_kcal_mol": 9.49,
+      "sem_kcal_mol": 0.25,
+      "hotspot": true
+    },
+    {
+      "resname": "ARG",
+      "resid": 59,
+      "ddG_kJ_mol": 29.25,
+      "ddG_kcal_mol": 6.99,
+      "sem_kcal_mol": 0.63,
+      "hotspot": true
+    },
+    {
+      "resname": "SER",
+      "resid": 42,
+      "ddG_kJ_mol": 27.95,
+      "ddG_kcal_mol": 6.68,
+      "sem_kcal_mol": 0.47,
+      "hotspot": true
+    },
+    {
+      "resname": "ARG",
+      "resid": 58,
+      "ddG_kJ_mol": 25.23,
+      "ddG_kcal_mol": 6.03,
+      "sem_kcal_mol": 1.12,
+      "hotspot": true
+    },
+    {
+      "resname": "SER",
+      "resid": 60,
+      "ddG_kJ_mol": 23.13,
+      "ddG_kcal_mol": 5.53,
+      "sem_kcal_mol": 0.36,
+      "hotspot": true
+    },
+    {
+      "resname": "THR",
+      "resid": 7,
+      "ddG_kJ_mol": 21.08,
+      "ddG_kcal_mol": 5.04,
+      "sem_kcal_mol": 0.72,
+      "hotspot": true
+    },
+    {
+      "resname": "GLN",
+      "resid": 40,
+      "ddG_kJ_mol": 20.73,
+      "ddG_kcal_mol": 4.96,
+      "sem_kcal_mol": 0.66,
+      "hotspot": true
+    },
+    {
+      "resname": "TYR",
+      "resid": 29,
+      "ddG_kJ_mol": 19.52,
+      "ddG_kcal_mol": 4.67,
+      "sem_kcal_mol": 0.43,
+      "hotspot": true
+    },
+    {
+      "resname": "GLU",
+      "resid": 25,
+      "ddG_kJ_mol": 16.09,
+      "ddG_kcal_mol": 3.84,
+      "sem_kcal_mol": 0.9,
+      "hotspot": true
+    },
+    {
+      "resname": "THR",
+      "resid": 45,
+      "ddG_kJ_mol": 14.06,
+      "ddG_kcal_mol": 3.36,
+      "sem_kcal_mol": 0.49,
+      "hotspot": true
+    },
+    {
+      "resname": "GLU",
+      "resid": 88,
+      "ddG_kJ_mol": 11.61,
+      "ddG_kcal_mol": 2.78,
+      "sem_kcal_mol": 0.7,
+      "hotspot": true
+    },
+    {
+      "resname": "LYS",
+      "resid": 35,
+      "ddG_kJ_mol": 11.16,
+      "ddG_kcal_mol": 2.67,
+      "sem_kcal_mol": 0.61,
+      "hotspot": true
+    },
+    {
+      "resname": "LEU",
+      "resid": 61,
+      "ddG_kJ_mol": 11.08,
+      "ddG_kcal_mol": 2.65,
+      "sem_kcal_mol": 0.2,
+      "hotspot": true
+    },
+    {
+      "resname": "ASP",
+      "resid": 56,
+      "ddG_kJ_mol": 9.96,
+      "ddG_kcal_mol": 2.38,
+      "sem_kcal_mol": 0.59,
+      "hotspot": true
+    },
+    {
+      "resname": "VAL",
+      "resid": 70,
+      "ddG_kJ_mol": 9.66,
+      "ddG_kcal_mol": 2.31,
+      "sem_kcal_mol": 0.16,
+      "hotspot": true
+    },
+    {
+      "resname": "HIS",
+      "resid": 72,
+      "ddG_kJ_mol": 8.08,
+      "ddG_kcal_mol": 1.93,
+      "sem_kcal_mol": 0.38,
+      "hotspot": true
+    },
+    {
+      "resname": "GLU",
+      "resid": 8,
+      "ddG_kJ_mol": 8.07,
+      "ddG_kcal_mol": 1.93,
+      "sem_kcal_mol": 0.38,
+      "hotspot": true
+    },
+    {
+      "resname": "VAL",
+      "resid": 85,
+      "ddG_kJ_mol": 6.35,
+      "ddG_kcal_mol": 1.52,
+      "sem_kcal_mol": 0.2,
+      "hotspot": true
+    },
+    {
+      "resname": "ASP",
+      "resid": 63,
+      "ddG_kJ_mol": 6.21,
+      "ddG_kcal_mol": 1.48,
+      "sem_kcal_mol": 0.11,
+      "hotspot": true
+    },
+    {
+      "resname": "VAL",
+      "resid": 13,
+      "ddG_kJ_mol": 6.09,
+      "ddG_kcal_mol": 1.46,
+      "sem_kcal_mol": 0.26,
+      "hotspot": true
+    },
+    {
+      "resname": "VAL",
+      "resid": 5,
+      "ddG_kJ_mol": 4.86,
+      "ddG_kcal_mol": 1.16,
+      "sem_kcal_mol": 0.24,
+      "hotspot": true
+    },
+    {
+      "resname": "LEU",
+      "resid": 44,
+      "ddG_kJ_mol": 4.67,
+      "ddG_kcal_mol": 1.12,
+      "sem_kcal_mol": 0.15,
+      "hotspot": true
+    },
+    {
+      "resname": "GLN",
+      "resid": 64,
+      "ddG_kJ_mol": 4.09,
+      "ddG_kcal_mol": 0.98,
+      "sem_kcal_mol": 0.17,
+      "hotspot": false
+    },
+    {
+      "resname": "TRP",
+      "resid": 62,
+      "ddG_kJ_mol": 2.83,
+      "ddG_kcal_mol": 0.68,
+      "sem_kcal_mol": 0.07,
+      "hotspot": false
+    },
+    {
+      "resname": "SER",
+      "resid": 57,
+      "ddG_kJ_mol": 1.09,
+      "ddG_kcal_mol": 0.26,
+      "sem_kcal_mol": 0.04,
+      "hotspot": false
+    },
+    {
+      "resname": "LYS",
+      "resid": 46,
+      "ddG_kJ_mol": -1.13,
+      "ddG_kcal_mol": -0.27,
+      "sem_kcal_mol": 0.06,
+      "hotspot": false
+    }
+  ]
+}

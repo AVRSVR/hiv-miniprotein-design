@@ -1,0 +1,280 @@
+{
+  "linker_model_A_per_residue": 3.5,
+  "constructs": [
+    {
+      "arm_1": "D4 (de novo)",
+      "arm_2": "D3 (CD4-mimetic cyclic)",
+      "fusion": "model_4_chai-linker-Cyclic_Ring",
+      "C_to_N_distance_A": 28.6,
+      "min_linker_residues": 9,
+      "suggested_linker_residues": 13,
+      "feasible": true
+    },
+    {
+      "arm_1": "D4 (de novo)",
+      "arm_2": "D2 (de novo bispecific)",
+      "fusion": "model_4_chai-linker-Chai1_Best",
+      "C_to_N_distance_A": 36.1,
+      "min_linker_residues": 11,
+      "suggested_linker_residues": 16,
+      "feasible": true
+    },
+    {
+      "arm_1": "D3 (CD4-mimetic cyclic)",
+      "arm_2": "D2 (de novo bispecific)",
+      "fusion": "Cyclic_Ring-linker-Chai1_Best",
+      "C_to_N_distance_A": 37.1,
+      "min_linker_residues": 11,
+      "suggested_linker_residues": 16,
+      "feasible": true
+    },
+    {
+      "arm_1": "D4 (de novo)",
+      "arm_2": "D5 (de novo, coreceptor site)",
+      "fusion": "model_4_chai-linker-Latest_Best",
+      "C_to_N_distance_A": 41.0,
+      "min_linker_residues": 12,
+      "suggested_linker_residues": 18,
+      "feasible": true
+    },
+    {
+      "arm_1": "D3 (CD4-mimetic cyclic)",
+      "arm_2": "D4 (de novo)",
+      "fusion": "Cyclic_Ring-linker-model_4_chai",
+      "C_to_N_distance_A": 43.7,
+      "min_linker_residues": 13,
+      "suggested_linker_residues": 19,
+      "feasible": true
+    },
+    {
+      "arm_1": "D3 (CD4-mimetic cyclic)",
+      "arm_2": "D5 (de novo, coreceptor site)",
+      "fusion": "Cyclic_Ring-linker-Latest_Best",
+      "C_to_N_distance_A": 47.9,
+      "min_linker_residues": 14,
+      "suggested_linker_residues": 21,
+      "feasible": true
+    },
+    {
+      "arm_1": "D2 (de novo bispecific)",
+      "arm_2": "D3 (CD4-mimetic cyclic)",
+      "fusion": "Chai1_Best-linker-Cyclic_Ring",
+      "C_to_N_distance_A": 49.7,
+      "min_linker_residues": 15,
+      "suggested_linker_residues": 22,
+      "feasible": true
+    },
+    {
+      "arm_1": "D2 (de novo bispecific)",
+      "arm_2": "D4 (de novo)",
+      "fusion": "Chai1_Best-linker-model_4_chai",
+      "C_to_N_distance_A": 58.9,
+      "min_linker_residues": 17,
+      "suggested_linker_residues": 25,
+      "feasible": true
+    },
+    {
+      "arm_1": "D1 (CD4-mimetic control)",
+      "arm_2": "D5 (de novo, coreceptor site)",
+      "fusion": "S310-linker-Latest_Best",
+      "C_to_N_distance_A": 60.8,
+      "min_linker_residues": 18,
+      "suggested_linker_residues": 27,
+      "feasible": true
+    },
+    {
+      "arm_1": "D1 (CD4-mimetic control)",
+      "arm_2": "D2 (de novo bispecific)",
+      "fusion": "S310-linker-Chai1_Best",
+      "C_to_N_distance_A": 60.9,
+      "min_linker_residues": 18,
+      "suggested_linker_residues": 27,
+      "feasible": true
+    },
+    {
+      "arm_1": "D5 (de novo, coreceptor site)",
+      "arm_2": "D3 (CD4-mimetic cyclic)",
+      "fusion": "Latest_Best-linker-Cyclic_Ring",
+      "C_to_N_distance_A": 61.3,
+      "min_linker_residues": 18,
+      "suggested_linker_residues": 27,
+      "feasible": true
+    },
+    {
+      "arm_1": "D2 (de novo bispecific)",
+      "arm_2": "D1 (CD4-mimetic control)",
+      "fusion": "Chai1_Best-linker-S310",
+      "C_to_N_distance_A": 62.2,
+      "min_linker_residues": 18,
+      "suggested_linker_residues": 27,
+      "feasible": true
+    },
+    {
+      "arm_1": "D5 (de novo, coreceptor site)",
+      "arm_2": "D1 (CD4-mimetic control)",
+      "fusion": "Latest_Best-linker-S310",
+      "C_to_N_distance_A": 71.7,
+      "min_linker_residues": 21,
+      "suggested_linker_residues": 31,
+      "feasible": true
+    },
+    {
+      "arm_1": "D5 (de novo, coreceptor site)",
+      "arm_2": "D4 (de novo)",
+      "fusion": "Latest_Best-linker-model_4_chai",
+      "C_to_N_distance_A": 87.7,
+      "min_linker_residues": 26,
+      "suggested_linker_residues": 39,
+      "feasible": true
+    }
+  ],
+  "contacts": [
+    {
+      "design": "D2 (de novo bispecific)",
+      "contact_residues": [
+        293,
+        295,
+        296,
+        297,
+        298,
+        299,
+        301,
+        325,
+        327,
+        330,
+        331,
+        332,
+        334,
+        406,
+        412,
+        413,
+        415,
+        442,
+        444,
+        446
+      ]
+    },
+    {
+      "design": "D5 (de novo, coreceptor site)",
+      "contact_residues": [
+        206,
+        207,
+        208,
+        209,
+        211,
+        293,
+        295,
+        301,
+        302,
+        304,
+        306,
+        308,
+        314,
+        316,
+        318,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446
+      ]
+    },
+    {
+      "design": "D3 (CD4-mimetic cyclic)",
+      "contact_residues": [
+        96,
+        98,
+        99,
+        102,
+        105,
+        273,
+        274,
+        275,
+        281,
+        282,
+        283,
+        285,
+        427,
+        428,
+        455,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        480
+      ]
+    },
+    {
+      "design": "D1 (CD4-mimetic control)",
+      "contact_residues": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        186,
+        187,
+        188,
+        192,
+        193,
+        279,
+        280,
+        281,
+        282,
+        283,
+        365,
+        366,
+        367,
+        368,
+        370,
+        371,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        455,
+        456,
+        457,
+        458,
+        469,
+        472,
+        473,
+        474
+      ]
+    },
+    {
+      "design": "D4 (de novo)",
+      "contact_residues": [
+        358,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        372,
+        373,
+        386,
+        387,
+        388,
+        391,
+        392,
+        393,
+        394,
+        396,
+        419,
+        469
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "design": "Latest_Best",
+  "label": "D5",
+  "n_frames": 8,
+  "wt_dG_kJ_mol": -297.2,
+  "contacts": [
+    {
+      "resname": "ILE",
+      "hxb2_pos": 68,
+      "ddG_kcal_mol": 0.65,
+      "conservation": 0.878,
+      "escape_risk": 0.01
+    },
+    {
+      "resname": "MET",
+      "hxb2_pos": 161,
+      "ddG_kcal_mol": 1.4,
+      "conservation": 0.393,
+      "escape_risk": 0.103
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 163,
+      "ddG_kcal_mol": 1.83,
+      "conservation": 0.948,
+      "escape_risk": 0.012
+    },
+    {
+      "resname": "GLU",
+      "hxb2_pos": 164,
+      "ddG_kcal_mol": 1.78,
+      "conservation": 0.5,
+      "escape_risk": 0.108
+    },
+    {
+      "resname": "LYS",
+      "hxb2_pos": 168,
+      "ddG_kcal_mol": 3.72,
+      "conservation": 0.831,
+      "escape_risk": 0.076
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 170,
+      "ddG_kcal_mol": 1.95,
+      "conservation": 0.568,
+      "escape_risk": 0.102
+    },
+    {
+      "resname": "LYS",
+      "hxb2_pos": 207,
+      "ddG_kcal_mol": 1.58,
+      "conservation": 0.996,
+      "escape_risk": 0.001
+    },
+    {
+      "resname": "SER",
+      "hxb2_pos": 209,
+      "ddG_kcal_mol": 0.6,
+      "conservation": 0.7,
+      "escape_risk": 0.022
+    },
+    {
+      "resname": "GLU",
+      "hxb2_pos": 211,
+      "ddG_kcal_mol": 3.54,
+      "conservation": 0.601,
+      "escape_risk": 0.171
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 293,
+      "ddG_kcal_mol": 0.07,
+      "conservation": 0.452,
+      "escape_risk": 0.005
+    },
+    {
+      "resname": "ASN",
+      "hxb2_pos": 302,
+      "ddG_kcal_mol": 0.14,
+      "conservation": 0.956,
+      "escape_risk": 0.001
+    },
+    {
+      "resname": "THR",
+      "hxb2_pos": 303,
+      "ddG_kcal_mol": 1.14,
+      "conservation": 0.947,
+      "escape_risk": 0.007
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 304,
+      "ddG_kcal_mol": 3.64,
+      "conservation": 0.932,
+      "escape_risk": 0.03
+    },
+    {
+      "resname": "LYS",
+      "hxb2_pos": 305,
+      "ddG_kcal_mol": 8.25,
+      "conservation": 0.681,
+      "escape_risk": 0.319
+    },
+    {
+      "resname": "SER",
+      "hxb2_pos": 306,
+      "ddG_kcal_mol": 0.72,
+      "conservation": 0.764,
+      "escape_risk": 0.021
+    },
+    {
+      "resname": "ILE",
+      "hxb2_pos": 307,
+      "ddG_kcal_mol": 0.44,
+      "conservation": 0.755,
+      "escape_risk": 0.013
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 308,
+      "ddG_kcal_mol": 2.69,
+      "conservation": 0.374,
+      "escape_risk": 0.204
+    },
+    {
+      "resname": "TYR",
+      "hxb2_pos": 318,
+      "ddG_kcal_mol": 6.19,
+      "conservation": 0.817,
+      "escape_risk": 0.137
+    },
+    {
+      "resname": "ILE",
+      "hxb2_pos": 323,
+      "ddG_kcal_mol": 0.7,
+      "conservation": 0.955,
+      "escape_risk": 0.004
+    },
+    {
+      "resname": "ILE",
+      "hxb2_pos": 439,
+      "ddG_kcal_mol": 0.71,
+      "conservation": 0.962,
+      "escape_risk": 0.003
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 440,
+      "ddG_kcal_mol": 2.73,
+      "conservation": 0.233,
+      "escape_risk": 0.254
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 442,
+      "ddG_kcal_mol": 1.69,
+      "conservation": 0.272,
+      "escape_risk": 0.149
+    },
+    {
+      "resname": "ILE",
+      "hxb2_pos": 443,
+      "ddG_kcal_mol": 1.69,
+      "conservation": 0.959,
+      "escape_risk": 0.008
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 444,
+      "ddG_kcal_mol": 6.63,
+      "conservation": 0.36,
+      "escape_risk": 0.514
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 446,
+      "ddG_kcal_mol": 1.36,
+      "conservation": 0.351,
+      "escape_risk": 0.107
+    }
+  ],
+  "top_escape_risk": [
+    {
+      "resname": "ARG",
+      "hxb2_pos": 444,
+      "ddG_kcal_mol": 6.63,
+      "conservation": 0.36,
+      "escape_risk": 0.514
+    },
+    {
+      "resname": "LYS",
+      "hxb2_pos": 305,
+      "ddG_kcal_mol": 8.25,
+      "conservation": 0.681,
+      "escape_risk": 0.319
+    },
+    {
+      "resname": "GLN",
+      "hxb2_pos": 440,
+      "ddG_kcal_mol": 2.73,
+      "conservation": 0.233,
+      "escape_risk": 0.254
+    },
+    {
+      "resname": "ARG",
+      "hxb2_pos": 308,
+      "ddG_kcal_mol": 2.69,
+      "conservation": 0.374,
+      "escape_risk": 0.204
+    },
+    {
+      "resname": "GLU",
+      "hxb2_pos": 211,
+      "ddG_kcal_mol": 3.54,
+      "conservation": 0.601,
+      "escape_risk": 0.171
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 442,
+      "ddG_kcal_mol": 1.69,
+      "conservation": 0.272,
+      "escape_risk": 0.149
+    },
+    {
+      "resname": "TYR",
+      "hxb2_pos": 318,
+      "ddG_kcal_mol": 6.19,
+      "conservation": 0.817,
+      "escape_risk": 0.137
+    },
+    {
+      "resname": "GLU",
+      "hxb2_pos": 164,
+      "ddG_kcal_mol": 1.78,
+      "conservation": 0.5,
+      "escape_risk": 0.108
+    },
+    {
+      "resname": "VAL",
+      "hxb2_pos": 446,
+      "ddG_kcal_mol": 1.36,
+      "conservation": 0.351,
+      "escape_risk": 0.107
+    },
+    {
+      "resname": "MET",
+      "hxb2_pos": 161,
+      "ddG_kcal_mol": 1.4,
+      "conservation": 0.393,
+      "escape_risk": 0.103
+    }
+  ],
+  "escape_resistant_contacts": [
+    {
+      "resname": "ILE",
+      "hxb2_pos": 443,
+      "ddG_kcal_mol": 1.69,
+      "conservation": 0.959,
+      "escape_risk": 0.008
+    },
+    {
+      "resname": "LYS",
+      "hxb2_pos": 207,
+      "ddG_kcal_mol": 1.58,
+      "conservation": 0.996,
+      "escape_risk": 0.001
+    }
+  ],
+  "conservation_source": {
+    "sequences": 4284,
+    "clusters": 2948,
+    "estimator": "modal residue frequency over 98%-identity cluster representatives"
+  }
+}

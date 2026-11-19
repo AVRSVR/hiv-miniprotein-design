@@ -1,0 +1,21 @@
+|   Position | Target residue   |   ΔΔG (kcal/mol) |   Target residue frequency (%) | Modal residue   |   Modal frequency (%) | Target is modal   | In a variable loop   |   Share of shortfall (%) |
+|-----------:|:-----------------|-----------------:|-------------------------------:|:----------------|----------------------:|:------------------|:---------------------|-------------------------:|
+|        305 | K                |             8.25 |                           68.1 | K               |                  68.1 | yes               | yes                  |                     12.9 |
+|        444 | R                |             6.63 |                           36   | R               |                  36   | yes               | no                   |                     20.9 |
+|        318 | Y                |             6.19 |                           81.7 | Y               |                  81.7 | yes               | yes                  |                      5.6 |
+|        168 | K                |             3.72 |                           83.1 | K               |                  83.1 | yes               | yes                  |                      3.1 |
+|        304 | R                |             3.64 |                           93.2 | R               |                  93.2 | yes               | yes                  |                      1.2 |
+|        211 | E                |             3.54 |                           60.1 | E               |                  60.1 | yes               | no                   |                      6.9 |
+|        440 | Q                |             2.73 |                            7.3 | A               |                  23.3 | no                | no                   |                     12.4 |
+|        308 | R                |             2.69 |                           37.4 | R               |                  37.4 | yes               | yes                  |                      8.3 |
+|        170 | Q                |             1.95 |                           56.8 | Q               |                  56.8 | yes               | yes                  |                      4.1 |
+|        163 | T                |             1.83 |                           94.8 | T               |                  94.8 | yes               | yes                  |                      0.5 |
+|        164 | E                |             1.78 |                           50   | E               |                  50   | yes               | yes                  |                      4.4 |
+|        442 | V                |             1.69 |                            6.9 | Q               |                  27.2 | no                | no                   |                      7.7 |
+|        443 | I                |             1.69 |                           95.9 | I               |                  95.9 | yes               | no                   |                      0.3 |
+|        207 | K                |             1.58 |                           99.6 | K               |                  99.6 | yes               | no                   |                      0   |
+|        161 | M                |             1.4  |                           22.1 | I               |                  39.3 | no                | yes                  |                      5.4 |
+|        446 | V                |             1.36 |                           12.1 | S               |                  35.1 | no                | no                   |                      5.9 |
+|        303 | T                |             1.14 |                           94.7 | T               |                  94.7 | yes               | yes                  |                      0.3 |
+
+Every load-bearing contact of D5, ordered by ΔΔG. The two frequency columns are the quantity that matters for a design and the quantity conservation reports: how often the epidemic presents the residue the design is touching, and how often it presents the most common one. Where they differ, the position can be well conserved and the design still mismatched. Frequencies inside V1V2, V3, V4 and V5 rest on a column-wise alignment of variable-length loops and are the least reliable here.

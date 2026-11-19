@@ -1,0 +1,8 @@
+| Design                      |   Glycan clashes as modelled |   gp120 contacts as modelled | Glycan-free pose found   | Displacement required   | Interface kept at 0% of original glycan contact   | at 10%        | at 25%        | at 50%   |
+|:----------------------------|-----------------------------:|-----------------------------:|:-------------------------|:------------------------|:--------------------------------------------------|:--------------|:--------------|:---------|
+| D5 de novo, coreceptor site |                           52 |                          435 | no                       | none within 4 A         | not reachable                                     | not reachable | 32%           | 45%      |
+| D2 de novo bispecific       |                           96 |                          340 | no                       | none within 4 A         | not reachable                                     | not reachable | not reachable | 59%      |
+| D2' alternative pose        |                           87 |                          289 | no                       | none within 4 A         | not reachable                                     | not reachable | not reachable | 113%     |
+| D3 CD4-mimetic cyclic       |                            0 |                          293 | yes                      | 0.00 A, 0.0 deg         | 219%                                              | 219%          | 219%          | 219%     |
+
+Rigid binder and rigid glycans, 25000 random poses per design within 4 A and 20 degrees of the modelled pose. A pose counts only if it clears every glycan without pushing into gp120 or a neighbouring protomer. This is an accessibility search, not an affinity calculation.

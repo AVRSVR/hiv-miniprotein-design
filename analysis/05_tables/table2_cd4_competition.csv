@@ -1,0 +1,6 @@
+Design,Fit RMSD to 1GC1 (A),Min dist to CD4 (A),CD4 clash atoms (<3 A),CD4 overlap atoms (<4.5 A),Min dist to 17b (A),CD4 competition
+D1 (CD4-mimetic control),2.01,0.17,4530,13054,10.22,CD4-blocking
+D2 (de novo bispecific),5.52,20.62,0,0,3.31,non-competitive
+D3 (CD4-mimetic cyclic),5.52,0.73,161,536,19.86,CD4-blocking
+D2' (alternative pose),5.52,0.51,130,551,3.87,CD4-blocking
+"D5 (de novo, coreceptor site)",5.52,19.25,0,0,0.24,non-competitive

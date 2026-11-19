@@ -1,0 +1,97 @@
+{
+  "design": "Chai1_Best",
+  "label": "D2",
+  "n_frames": 10,
+  "wt_dG_kJ_mol": -228.1,
+  "n_hotspots": 8,
+  "residues": [
+    {
+      "resname": "GLN",
+      "resid": 33,
+      "ddG_kJ_mol": 47.6,
+      "ddG_kcal_mol": 11.38,
+      "sem_kcal_mol": 0.53,
+      "hotspot": true
+    },
+    {
+      "resname": "GLU",
+      "resid": 41,
+      "ddG_kJ_mol": 38.88,
+      "ddG_kcal_mol": 9.29,
+      "sem_kcal_mol": 0.98,
+      "hotspot": true
+    },
+    {
+      "resname": "ARG",
+      "resid": 71,
+      "ddG_kJ_mol": 35.84,
+      "ddG_kcal_mol": 8.57,
+      "sem_kcal_mol": 0.67,
+      "hotspot": true
+    },
+    {
+      "resname": "GLU",
+      "resid": 34,
+      "ddG_kJ_mol": 19.07,
+      "ddG_kcal_mol": 4.56,
+      "sem_kcal_mol": 0.36,
+      "hotspot": true
+    },
+    {
+      "resname": "ASN",
+      "resid": 29,
+      "ddG_kJ_mol": 17.16,
+      "ddG_kcal_mol": 4.1,
+      "sem_kcal_mol": 0.58,
+      "hotspot": true
+    },
+    {
+      "resname": "SER",
+      "resid": 40,
+      "ddG_kJ_mol": 16.78,
+      "ddG_kcal_mol": 4.01,
+      "sem_kcal_mol": 0.86,
+      "hotspot": true
+    },
+    {
+      "resname": "CYS",
+      "resid": 36,
+      "ddG_kJ_mol": 8.36,
+      "ddG_kcal_mol": 2.0,
+      "sem_kcal_mol": 0.19,
+      "hotspot": true
+    },
+    {
+      "resname": "GLN",
+      "resid": 68,
+      "ddG_kJ_mol": 6.26,
+      "ddG_kcal_mol": 1.5,
+      "sem_kcal_mol": 0.57,
+      "hotspot": true
+    },
+    {
+      "resname": "ARG",
+      "resid": 64,
+      "ddG_kJ_mol": 1.26,
+      "ddG_kcal_mol": 0.3,
+      "sem_kcal_mol": 0.26,
+      "hotspot": false
+    },
+    {
+      "resname": "MET",
+      "resid": 1,
+      "ddG_kJ_mol": 0.11,
+      "ddG_kcal_mol": 0.03,
+      "sem_kcal_mol": 0.19,
+      "hotspot": false
+    },
+    {
+      "resname": "ARG",
+      "resid": 10,
+      "ddG_kJ_mol": -4.35,
+      "ddG_kcal_mol": -1.04,
+      "sem_kcal_mol": 0.18,
+      "hotspot": false
+    }
+  ]
+}

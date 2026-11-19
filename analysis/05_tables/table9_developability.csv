@@ -1,0 +1,5 @@
+Design,Length,MW (kDa),pI,Net charge pH 7.4,GRAVY,Instability index,Predicted stable,Exposed hydrophobic (frac),Largest hydrophobic patch (res),Cys,Unpaired Cys,N-glyc sequons,Deamidation motifs,Helix/sheet (%)
+D1 (CD4-mimetic control),97,10.27,5.02,-3.5,-0.009,35.7,yes,0.208,2,5,1,0,0,6/41
+D2 (de novo bispecific),73,8.45,8.46,2.1,-0.684,53.3,no,0.212,2,8,0,0,0,81/0
+D3 (CD4-mimetic cyclic),13,1.36,8.9,1.5,-0.338,11.7,yes,0.307,2,2,0,0,0,0/0
+"D5 (de novo, coreceptor site)",66,8.22,7.91,0.5,-1.497,49.8,no,0.156,2,2,0,0,0,94/0

@@ -1,0 +1,472 @@
+[
+  {
+    "design": "Latest_Best",
+    "label": "D5",
+    "n_frames": 40,
+    "total_kJ_mol": -2005.0,
+    "residues": [
+      {
+        "resname": "GLU",
+        "resid": 36,
+        "energy_kJ_mol": -363.65,
+        "energy_sd": 80.65,
+        "buried_SASA_A2": 30.8
+      },
+      {
+        "resname": "ASP",
+        "resid": 64,
+        "energy_kJ_mol": -313.17,
+        "energy_sd": 95.93,
+        "buried_SASA_A2": 48.9
+      },
+      {
+        "resname": "LYS",
+        "resid": 66,
+        "energy_kJ_mol": -308.58,
+        "energy_sd": 131.31,
+        "buried_SASA_A2": 90.3
+      },
+      {
+        "resname": "GLU",
+        "resid": 4,
+        "energy_kJ_mol": -252.28,
+        "energy_sd": 131.4,
+        "buried_SASA_A2": 49.3
+      },
+      {
+        "resname": "GLU",
+        "resid": 62,
+        "energy_kJ_mol": -199.78,
+        "energy_sd": 202.13,
+        "buried_SASA_A2": 25.2
+      },
+      {
+        "resname": "TYR",
+        "resid": 14,
+        "energy_kJ_mol": -120.05,
+        "energy_sd": 78.6,
+        "buried_SASA_A2": 59.4
+      },
+      {
+        "resname": "CYS",
+        "resid": 65,
+        "energy_kJ_mol": -101.52,
+        "energy_sd": 45.67,
+        "buried_SASA_A2": 102.6
+      },
+      {
+        "resname": "TRP",
+        "resid": 11,
+        "energy_kJ_mol": -96.69,
+        "energy_sd": 49.52,
+        "buried_SASA_A2": 105.9
+      },
+      {
+        "resname": "LYS",
+        "resid": 17,
+        "energy_kJ_mol": -79.77,
+        "energy_sd": 60.93,
+        "buried_SASA_A2": 3.5
+      },
+      {
+        "resname": "HIS",
+        "resid": 58,
+        "energy_kJ_mol": -73.01,
+        "energy_sd": 29.76,
+        "buried_SASA_A2": 54.6
+      },
+      {
+        "resname": "GLU",
+        "resid": 3,
+        "energy_kJ_mol": -59.28,
+        "energy_sd": 57.28,
+        "buried_SASA_A2": 0.7
+      },
+      {
+        "resname": "CYS",
+        "resid": 61,
+        "energy_kJ_mol": -40.29,
+        "energy_sd": 28.18,
+        "buried_SASA_A2": 44.7
+      },
+      {
+        "resname": "TYR",
+        "resid": 51,
+        "energy_kJ_mol": -37.85,
+        "energy_sd": 46.31,
+        "buried_SASA_A2": 50.5
+      },
+      {
+        "resname": "ASP",
+        "resid": 33,
+        "energy_kJ_mol": -37.5,
+        "energy_sd": 34.18,
+        "buried_SASA_A2": 1.7
+      },
+      {
+        "resname": "ASP",
+        "resid": 9,
+        "energy_kJ_mol": -35.29,
+        "energy_sd": 25.15,
+        "buried_SASA_A2": 0.2
+      },
+      {
+        "resname": "LEU",
+        "resid": 47,
+        "energy_kJ_mol": -33.76,
+        "energy_sd": 27.76,
+        "buried_SASA_A2": 54.5
+      },
+      {
+        "resname": "GLU",
+        "resid": 63,
+        "energy_kJ_mol": -31.29,
+        "energy_sd": 33.21,
+        "buried_SASA_A2": 0.2
+      },
+      {
+        "resname": "TYR",
+        "resid": 44,
+        "energy_kJ_mol": -29.93,
+        "energy_sd": 34.3,
+        "buried_SASA_A2": 29.0
+      },
+      {
+        "resname": "MET",
+        "resid": 50,
+        "energy_kJ_mol": -27.77,
+        "energy_sd": 22.19,
+        "buried_SASA_A2": 70.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 35,
+        "energy_kJ_mol": -23.09,
+        "energy_sd": 16.65,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ILE",
+        "resid": 57,
+        "energy_kJ_mol": -19.17,
+        "energy_sd": 22.54,
+        "buried_SASA_A2": 26.1
+      },
+      {
+        "resname": "VAL",
+        "resid": 5,
+        "energy_kJ_mol": -14.79,
+        "energy_sd": 21.68,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 42,
+        "energy_kJ_mol": -13.52,
+        "energy_sd": 24.43,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ILE",
+        "resid": 43,
+        "energy_kJ_mol": -13.24,
+        "energy_sd": 23.24,
+        "buried_SASA_A2": 72.8
+      },
+      {
+        "resname": "TYR",
+        "resid": 37,
+        "energy_kJ_mol": -12.74,
+        "energy_sd": 18.57,
+        "buried_SASA_A2": 1.5
+      },
+      {
+        "resname": "LEU",
+        "resid": 54,
+        "energy_kJ_mol": -12.03,
+        "energy_sd": 22.02,
+        "buried_SASA_A2": 48.5
+      },
+      {
+        "resname": "GLU",
+        "resid": 2,
+        "energy_kJ_mol": -7.62,
+        "energy_sd": 17.08,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 49,
+        "energy_kJ_mol": -6.12,
+        "energy_sd": 26.13,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "TRP",
+        "resid": 10,
+        "energy_kJ_mol": -5.56,
+        "energy_sd": 33.5,
+        "buried_SASA_A2": 91.2
+      },
+      {
+        "resname": "LEU",
+        "resid": 18,
+        "energy_kJ_mol": -5.32,
+        "energy_sd": 19.5,
+        "buried_SASA_A2": 5.9
+      },
+      {
+        "resname": "ALA",
+        "resid": 22,
+        "energy_kJ_mol": -4.6,
+        "energy_sd": 13.18,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "TYR",
+        "resid": 15,
+        "energy_kJ_mol": -4.59,
+        "energy_sd": 48.69,
+        "buried_SASA_A2": 26.6
+      },
+      {
+        "resname": "LEU",
+        "resid": 8,
+        "energy_kJ_mol": -4.25,
+        "energy_sd": 33.12,
+        "buried_SASA_A2": 21.4
+      },
+      {
+        "resname": "LEU",
+        "resid": 52,
+        "energy_kJ_mol": -3.76,
+        "energy_sd": 13.8,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ASP",
+        "resid": 31,
+        "energy_kJ_mol": -3.44,
+        "energy_sd": 7.71,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ASP",
+        "resid": 56,
+        "energy_kJ_mol": -3.04,
+        "energy_sd": 17.27,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 20,
+        "energy_kJ_mol": -2.86,
+        "energy_sd": 5.28,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "HIS",
+        "resid": 30,
+        "energy_kJ_mol": -2.32,
+        "energy_sd": 11.99,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ARG",
+        "resid": 34,
+        "energy_kJ_mol": -1.91,
+        "energy_sd": 9.99,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "VAL",
+        "resid": 41,
+        "energy_kJ_mol": -1.35,
+        "energy_sd": 17.09,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLN",
+        "resid": 23,
+        "energy_kJ_mol": -0.95,
+        "energy_sd": 3.72,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 32,
+        "energy_kJ_mol": -0.4,
+        "energy_sd": 15.7,
+        "buried_SASA_A2": 0.5
+      },
+      {
+        "resname": "ALA",
+        "resid": 26,
+        "energy_kJ_mol": -0.25,
+        "energy_sd": 5.06,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 24,
+        "energy_kJ_mol": -0.08,
+        "energy_sd": 1.03,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ASN",
+        "resid": 27,
+        "energy_kJ_mol": 0.0,
+        "energy_sd": 0.0,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 59,
+        "energy_kJ_mol": 0.04,
+        "energy_sd": 21.91,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 28,
+        "energy_kJ_mol": 0.2,
+        "energy_sd": 1.67,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 45,
+        "energy_kJ_mol": 0.25,
+        "energy_sd": 16.9,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 46,
+        "energy_kJ_mol": 0.4,
+        "energy_sd": 24.47,
+        "buried_SASA_A2": 24.8
+      },
+      {
+        "resname": "ALA",
+        "resid": 29,
+        "energy_kJ_mol": 0.78,
+        "energy_sd": 5.63,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LEU",
+        "resid": 19,
+        "energy_kJ_mol": 0.92,
+        "energy_sd": 9.71,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 16,
+        "energy_kJ_mol": 1.03,
+        "energy_sd": 12.07,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ALA",
+        "resid": 25,
+        "energy_kJ_mol": 2.37,
+        "energy_sd": 7.59,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLY",
+        "resid": 1,
+        "energy_kJ_mol": 3.51,
+        "energy_sd": 34.37,
+        "buried_SASA_A2": 2.5
+      },
+      {
+        "resname": "ARG",
+        "resid": 48,
+        "energy_kJ_mol": 4.96,
+        "energy_sd": 21.09,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ALA",
+        "resid": 12,
+        "energy_kJ_mol": 6.62,
+        "energy_sd": 14.82,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 38,
+        "energy_kJ_mol": 8.37,
+        "energy_sd": 12.76,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "THR",
+        "resid": 53,
+        "energy_kJ_mol": 9.0,
+        "energy_sd": 21.19,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "GLU",
+        "resid": 21,
+        "energy_kJ_mol": 17.2,
+        "energy_sd": 31.35,
+        "buried_SASA_A2": 0.2
+      },
+      {
+        "resname": "LYS",
+        "resid": 13,
+        "energy_kJ_mol": 17.66,
+        "energy_sd": 26.45,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "ARG",
+        "resid": 55,
+        "energy_kJ_mol": 19.81,
+        "energy_sd": 30.96,
+        "buried_SASA_A2": 0.0
+      },
+      {
+        "resname": "LYS",
+        "resid": 60,
+        "energy_kJ_mol": 23.59,
+        "energy_sd": 31.16,
+        "buried_SASA_A2": 0.8
+      },
+      {
+        "resname": "LYS",
+        "resid": 6,
+        "energy_kJ_mol": 26.45,
+        "energy_sd": 22.19,
+        "buried_SASA_A2": 2.3
+      },
+      {
+        "resname": "ARG",
+        "resid": 40,
+        "energy_kJ_mol": 80.11,
+        "energy_sd": 49.91,
+        "buried_SASA_A2": 67.8
+      },
+      {
+        "resname": "LYS",
+        "resid": 39,
+        "energy_kJ_mol": 88.31,
+        "energy_sd": 39.76,
+        "buried_SASA_A2": 14.6
+      },
+      {
+        "resname": "LYS",
+        "resid": 7,
+        "energy_kJ_mol": 91.9,
+        "energy_sd": 37.47,
+        "buried_SASA_A2": 73.2
+      }
+    ]
+  }
+]

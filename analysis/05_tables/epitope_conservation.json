@@ -1,0 +1,49 @@
+{
+  "n_sequences": 4284,
+  "n_clusters": 2948,
+  "estimator": "modal residue frequency, 98%-identity-clustered",
+  "gp120_mean_conservation_pct": 79.6,
+  "cd4bs_hotspot_mean_conservation_pct": 91.7,
+  "per_design": [
+    {
+      "design": "D2 (de novo bispecific)",
+      "n_iface_res_scored": 20,
+      "mean_conservation_pct": 71.1,
+      "n_highly_conserved_ge90pct": 6,
+      "pct_highly_conserved": 30.0,
+      "delta_vs_gp120_mean_pct": -8.6
+    },
+    {
+      "design": "D5 (de novo, coreceptor site)",
+      "n_iface_res_scored": 24,
+      "mean_conservation_pct": 73.7,
+      "n_highly_conserved_ge90pct": 11,
+      "pct_highly_conserved": 45.8,
+      "delta_vs_gp120_mean_pct": -5.9
+    },
+    {
+      "design": "D3 (CD4-mimetic cyclic)",
+      "n_iface_res_scored": 22,
+      "mean_conservation_pct": 86.0,
+      "n_highly_conserved_ge90pct": 12,
+      "pct_highly_conserved": 54.5,
+      "delta_vs_gp120_mean_pct": 6.3
+    },
+    {
+      "design": "D1 (CD4-mimetic control)",
+      "n_iface_res_scored": 37,
+      "mean_conservation_pct": 86.2,
+      "n_highly_conserved_ge90pct": 22,
+      "pct_highly_conserved": 59.5,
+      "delta_vs_gp120_mean_pct": 6.5
+    },
+    {
+      "design": "D4 (de novo)",
+      "n_iface_res_scored": 19,
+      "mean_conservation_pct": 69.7,
+      "n_highly_conserved_ge90pct": 5,
+      "pct_highly_conserved": 26.3,
+      "delta_vs_gp120_mean_pct": -9.9
+    }
+  ]
+}

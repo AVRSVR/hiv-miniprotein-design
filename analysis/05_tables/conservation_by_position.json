@@ -1,0 +1,3385 @@
+{
+ "meta": {
+  "fasta": "hiv_env_full.fasta",
+  "records_in_file": 4497,
+  "dropped_group_N_O": 4,
+  "duplicates_collapsed": 57,
+  "dropped_ambiguous": 151,
+  "dropped_low_coverage": 1,
+  "sequences_used": 4284,
+  "clusters_at_98pct_identity": 2948,
+  "largest_cluster": 103,
+  "min_coverage": 0.8,
+  "cluster_identity": 0.98,
+  "positions_scored": 481
+ },
+ "per_position": {
+  "31": {
+   "n": 4084,
+   "n_clustered": 2828,
+   "pooled": 0.2669,
+   "clustered": 0.2815,
+   "entropy": 2.6898
+  },
+  "32": {
+   "n": 4072,
+   "n_clustered": 2814,
+   "pooled": 0.4528,
+   "clustered": 0.4009,
+   "entropy": 2.2948
+  },
+  "33": {
+   "n": 4072,
+   "n_clustered": 2814,
+   "pooled": 0.4961,
+   "clustered": 0.5373,
+   "entropy": 1.9973
+  },
+  "34": {
+   "n": 4076,
+   "n_clustered": 2819,
+   "pooled": 0.8894,
+   "clustered": 0.878,
+   "entropy": 0.7754
+  },
+  "35": {
+   "n": 4078,
+   "n_clustered": 2821,
+   "pooled": 0.9949,
+   "clustered": 0.9947,
+   "entropy": 0.0553
+  },
+  "36": {
+   "n": 4123,
+   "n_clustered": 2842,
+   "pooled": 0.9927,
+   "clustered": 0.9905,
+   "entropy": 0.07
+  },
+  "37": {
+   "n": 4126,
+   "n_clustered": 2844,
+   "pooled": 0.9952,
+   "clustered": 0.9972,
+   "entropy": 0.0511
+  },
+  "38": {
+   "n": 4188,
+   "n_clustered": 2875,
+   "pooled": 0.9883,
+   "clustered": 0.9885,
+   "entropy": 0.1019
+  },
+  "39": {
+   "n": 4188,
+   "n_clustered": 2875,
+   "pooled": 0.9928,
+   "clustered": 0.9906,
+   "entropy": 0.0706
+  },
+  "40": {
+   "n": 4188,
+   "n_clustered": 2875,
+   "pooled": 0.9947,
+   "clustered": 0.9927,
+   "entropy": 0.0585
+  },
+  "41": {
+   "n": 4198,
+   "n_clustered": 2882,
+   "pooled": 0.9983,
+   "clustered": 0.9983,
+   "entropy": 0.0201
+  },
+  "42": {
+   "n": 4221,
+   "n_clustered": 2895,
+   "pooled": 0.9972,
+   "clustered": 0.9965,
+   "entropy": 0.0346
+  },
+  "43": {
+   "n": 4224,
+   "n_clustered": 2898,
+   "pooled": 0.9979,
+   "clustered": 0.9969,
+   "entropy": 0.0259
+  },
+  "44": {
+   "n": 4226,
+   "n_clustered": 2898,
+   "pooled": 0.992,
+   "clustered": 0.99,
+   "entropy": 0.0826
+  },
+  "45": {
+   "n": 4227,
+   "n_clustered": 2899,
+   "pooled": 0.9981,
+   "clustered": 0.9972,
+   "entropy": 0.0232
+  },
+  "46": {
+   "n": 4226,
+   "n_clustered": 2898,
+   "pooled": 0.735,
+   "clustered": 0.6925,
+   "entropy": 1.0514
+  },
+  "47": {
+   "n": 4226,
+   "n_clustered": 2898,
+   "pooled": 0.7089,
+   "clustered": 0.658,
+   "entropy": 0.94
+  },
+  "48": {
+   "n": 4228,
+   "n_clustered": 2900,
+   "pooled": 0.9789,
+   "clustered": 0.9783,
+   "entropy": 0.1687
+  },
+  "49": {
+   "n": 4223,
+   "n_clustered": 2895,
+   "pooled": 0.4523,
+   "clustered": 0.3855,
+   "entropy": 2.2718
+  },
+  "50": {
+   "n": 4227,
+   "n_clustered": 2900,
+   "pooled": 0.9591,
+   "clustered": 0.9524,
+   "entropy": 0.3061
+  },
+  "51": {
+   "n": 4227,
+   "n_clustered": 2900,
+   "pooled": 0.9697,
+   "clustered": 0.9597,
+   "entropy": 0.2635
+  },
+  "52": {
+   "n": 4228,
+   "n_clustered": 2900,
+   "pooled": 0.9981,
+   "clustered": 0.9976,
+   "entropy": 0.0236
+  },
+  "53": {
+   "n": 4226,
+   "n_clustered": 2899,
+   "pooled": 0.9974,
+   "clustered": 0.9969,
+   "entropy": 0.0293
+  },
+  "54": {
+   "n": 4252,
+   "n_clustered": 2923,
+   "pooled": 0.9986,
+   "clustered": 0.9979,
+   "entropy": 0.0186
+  },
+  "55": {
+   "n": 4252,
+   "n_clustered": 2923,
+   "pooled": 0.9981,
+   "clustered": 0.9983,
+   "entropy": 0.0222
+  },
+  "56": {
+   "n": 4254,
+   "n_clustered": 2925,
+   "pooled": 0.9974,
+   "clustered": 0.9962,
+   "entropy": 0.0312
+  },
+  "57": {
+   "n": 4250,
+   "n_clustered": 2921,
+   "pooled": 0.9744,
+   "clustered": 0.9671,
+   "entropy": 0.2134
+  },
+  "58": {
+   "n": 4254,
+   "n_clustered": 2925,
+   "pooled": 0.9967,
+   "clustered": 0.9959,
+   "entropy": 0.0394
+  },
+  "59": {
+   "n": 4253,
+   "n_clustered": 2924,
+   "pooled": 0.9619,
+   "clustered": 0.9525,
+   "entropy": 0.3039
+  },
+  "60": {
+   "n": 4253,
+   "n_clustered": 2924,
+   "pooled": 0.8928,
+   "clustered": 0.8772,
+   "entropy": 0.7009
+  },
+  "61": {
+   "n": 4250,
+   "n_clustered": 2921,
+   "pooled": 0.856,
+   "clustered": 0.8244,
+   "entropy": 0.7782
+  },
+  "62": {
+   "n": 4253,
+   "n_clustered": 2925,
+   "pooled": 0.4804,
+   "clustered": 0.4263,
+   "entropy": 2.1068
+  },
+  "63": {
+   "n": 4272,
+   "n_clustered": 2940,
+   "pooled": 0.7437,
+   "clustered": 0.717,
+   "entropy": 1.3991
+  },
+  "64": {
+   "n": 4278,
+   "n_clustered": 2945,
+   "pooled": 0.9974,
+   "clustered": 0.9976,
+   "entropy": 0.0305
+  },
+  "65": {
+   "n": 4277,
+   "n_clustered": 2945,
+   "pooled": 0.6855,
+   "clustered": 0.6659,
+   "entropy": 1.5048
+  },
+  "66": {
+   "n": 4276,
+   "n_clustered": 2943,
+   "pooled": 0.9981,
+   "clustered": 0.9976,
+   "entropy": 0.0214
+  },
+  "67": {
+   "n": 4277,
+   "n_clustered": 2944,
+   "pooled": 0.9974,
+   "clustered": 0.9973,
+   "entropy": 0.0311
+  },
+  "68": {
+   "n": 4277,
+   "n_clustered": 2945,
+   "pooled": 0.8817,
+   "clustered": 0.8778,
+   "entropy": 0.5532
+  },
+  "69": {
+   "n": 4279,
+   "n_clustered": 2946,
+   "pooled": 0.9984,
+   "clustered": 0.9976,
+   "entropy": 0.021
+  },
+  "70": {
+   "n": 4279,
+   "n_clustered": 2946,
+   "pooled": 0.9965,
+   "clustered": 0.9973,
+   "entropy": 0.0414
+  },
+  "71": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9949,
+   "clustered": 0.9932,
+   "entropy": 0.0553
+  },
+  "72": {
+   "n": 4280,
+   "n_clustered": 2947,
+   "pooled": 0.9799,
+   "clustered": 0.9725,
+   "entropy": 0.1764
+  },
+  "73": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.997,
+   "clustered": 0.9966,
+   "entropy": 0.0367
+  },
+  "74": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9979,
+   "clustered": 0.9976,
+   "entropy": 0.0257
+  },
+  "75": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9979,
+   "clustered": 0.9983,
+   "entropy": 0.0247
+  },
+  "76": {
+   "n": 4280,
+   "n_clustered": 2947,
+   "pooled": 0.9998,
+   "clustered": 0.9997,
+   "entropy": 0.0032
+  },
+  "77": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9914,
+   "clustered": 0.9888,
+   "entropy": 0.0821
+  },
+  "78": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.993,
+   "clustered": 0.9905,
+   "entropy": 0.0666
+  },
+  "79": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9974,
+   "clustered": 0.9976,
+   "entropy": 0.029
+  },
+  "80": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.8334,
+   "clustered": 0.8259,
+   "entropy": 0.8679
+  },
+  "81": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9991,
+   "clustered": 0.999,
+   "entropy": 0.0122
+  },
+  "82": {
+   "n": 4279,
+   "n_clustered": 2945,
+   "pooled": 0.9371,
+   "clustered": 0.9389,
+   "entropy": 0.4491
+  },
+  "83": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9965,
+   "clustered": 0.9956,
+   "entropy": 0.0418
+  },
+  "84": {
+   "n": 4252,
+   "n_clustered": 2923,
+   "pooled": 0.4179,
+   "clustered": 0.44,
+   "entropy": 1.8284
+  },
+  "85": {
+   "n": 4275,
+   "n_clustered": 2941,
+   "pooled": 0.4625,
+   "clustered": 0.4141,
+   "entropy": 3.0054
+  },
+  "86": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9339,
+   "clustered": 0.9263,
+   "entropy": 0.4145
+  },
+  "87": {
+   "n": 4235,
+   "n_clustered": 2913,
+   "pooled": 0.5705,
+   "clustered": 0.5537,
+   "entropy": 2.0991
+  },
+  "88": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9953,
+   "clustered": 0.9942,
+   "entropy": 0.0539
+  },
+  "89": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9846,
+   "clustered": 0.9885,
+   "entropy": 0.1366
+  },
+  "90": {
+   "n": 4279,
+   "n_clustered": 2946,
+   "pooled": 0.9871,
+   "clustered": 0.9851,
+   "entropy": 0.1261
+  },
+  "91": {
+   "n": 4280,
+   "n_clustered": 2946,
+   "pooled": 0.9942,
+   "clustered": 0.9915,
+   "entropy": 0.0596
+  },
+  "92": {
+   "n": 4279,
+   "n_clustered": 2945,
+   "pooled": 0.7567,
+   "clustered": 0.7497,
+   "entropy": 1.4427
+  },
+  "93": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9967,
+   "clustered": 0.9956,
+   "entropy": 0.0376
+  },
+  "94": {
+   "n": 4279,
+   "n_clustered": 2945,
+   "pooled": 0.9411,
+   "clustered": 0.9338,
+   "entropy": 0.3759
+  },
+  "95": {
+   "n": 4275,
+   "n_clustered": 2941,
+   "pooled": 0.9563,
+   "clustered": 0.9572,
+   "entropy": 0.3359
+  },
+  "96": {
+   "n": 4280,
+   "n_clustered": 2947,
+   "pooled": 0.9921,
+   "clustered": 0.9905,
+   "entropy": 0.0757
+  },
+  "97": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9145,
+   "clustered": 0.9084,
+   "entropy": 0.6096
+  },
+  "98": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9963,
+   "clustered": 0.9956,
+   "entropy": 0.0402
+  },
+  "99": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.6137,
+   "clustered": 0.5786,
+   "entropy": 1.6207
+  },
+  "100": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9925,
+   "clustered": 0.9902,
+   "entropy": 0.0748
+  },
+  "101": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.9566,
+   "clustered": 0.9504,
+   "entropy": 0.2742
+  },
+  "102": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.7053,
+   "clustered": 0.6882,
+   "entropy": 1.0782
+  },
+  "103": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9986,
+   "clustered": 0.9983,
+   "entropy": 0.0173
+  },
+  "104": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.997,
+   "clustered": 0.9966,
+   "entropy": 0.0356
+  },
+  "105": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.8347,
+   "clustered": 0.8079,
+   "entropy": 0.7379
+  },
+  "106": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.8393,
+   "clustered": 0.8221,
+   "entropy": 0.9384
+  },
+  "107": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9965,
+   "clustered": 0.9973,
+   "entropy": 0.0404
+  },
+  "108": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.7794,
+   "clustered": 0.7453,
+   "entropy": 0.7666
+  },
+  "109": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9556,
+   "clustered": 0.9688,
+   "entropy": 0.3199
+  },
+  "110": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9484,
+   "clustered": 0.9599,
+   "entropy": 0.3227
+  },
+  "111": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9886,
+   "clustered": 0.9874,
+   "entropy": 0.1001
+  },
+  "112": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9977,
+   "clustered": 0.9969,
+   "entropy": 0.03
+  },
+  "113": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9738,
+   "clustered": 0.9705,
+   "entropy": 0.2096
+  },
+  "114": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8688,
+   "clustered": 0.8616,
+   "entropy": 0.5782
+  },
+  "115": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9795,
+   "clustered": 0.9783,
+   "entropy": 0.1738
+  },
+  "116": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9974,
+   "clustered": 0.9966,
+   "entropy": 0.0306
+  },
+  "117": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.964,
+   "clustered": 0.963,
+   "entropy": 0.2825
+  },
+  "118": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9979,
+   "clustered": 0.998,
+   "entropy": 0.0233
+  },
+  "119": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9991,
+   "clustered": 0.999,
+   "entropy": 0.0121
+  },
+  "120": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9879,
+   "clustered": 0.9851,
+   "entropy": 0.119
+  },
+  "121": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.9297,
+   "clustered": 0.9239,
+   "entropy": 0.5095
+  },
+  "122": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9846,
+   "clustered": 0.981,
+   "entropy": 0.1429
+  },
+  "123": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9979,
+   "clustered": 0.9973,
+   "entropy": 0.0265
+  },
+  "124": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9916,
+   "clustered": 0.9891,
+   "entropy": 0.0873
+  },
+  "125": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9858,
+   "clustered": 0.9817,
+   "entropy": 0.14
+  },
+  "126": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9977,
+   "clustered": 0.9976,
+   "entropy": 0.0295
+  },
+  "127": {
+   "n": 4279,
+   "n_clustered": 2946,
+   "pooled": 0.9685,
+   "clustered": 0.9664,
+   "entropy": 0.2155
+  },
+  "128": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9603,
+   "clustered": 0.9569,
+   "entropy": 0.3432
+  },
+  "129": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9834,
+   "clustered": 0.9841,
+   "entropy": 0.1449
+  },
+  "130": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.6806,
+   "clustered": 0.679,
+   "entropy": 1.7697
+  },
+  "131": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9998,
+   "clustered": 0.9997,
+   "entropy": 0.0032
+  },
+  "132": {
+   "n": 4173,
+   "n_clustered": 2862,
+   "pooled": 0.6775,
+   "clustered": 0.6495,
+   "entropy": 1.8139
+  },
+  "133": {
+   "n": 3989,
+   "n_clustered": 2746,
+   "pooled": 0.469,
+   "clustered": 0.4224,
+   "entropy": 1.8669
+  },
+  "134": {
+   "n": 3880,
+   "n_clustered": 2655,
+   "pooled": 0.2925,
+   "clustered": 0.2972,
+   "entropy": 2.9604
+  },
+  "135": {
+   "n": 3644,
+   "n_clustered": 2483,
+   "pooled": 0.2629,
+   "clustered": 0.228,
+   "entropy": 3.1769
+  },
+  "136": {
+   "n": 4026,
+   "n_clustered": 2750,
+   "pooled": 0.7312,
+   "clustered": 0.7065,
+   "entropy": 1.7881
+  },
+  "137": {
+   "n": 4059,
+   "n_clustered": 2779,
+   "pooled": 0.1922,
+   "clustered": 0.1702,
+   "entropy": 3.3588
+  },
+  "138": {
+   "n": 4108,
+   "n_clustered": 2817,
+   "pooled": 0.6964,
+   "clustered": 0.6535,
+   "entropy": 1.8064
+  },
+  "139": {
+   "n": 4185,
+   "n_clustered": 2863,
+   "pooled": 0.5137,
+   "clustered": 0.4855,
+   "entropy": 2.6424
+  },
+  "140": {
+   "n": 4163,
+   "n_clustered": 2860,
+   "pooled": 0.4859,
+   "clustered": 0.4378,
+   "entropy": 2.7633
+  },
+  "141": {
+   "n": 4139,
+   "n_clustered": 2846,
+   "pooled": 0.5482,
+   "clustered": 0.5618,
+   "entropy": 2.3
+  },
+  "142": {
+   "n": 4146,
+   "n_clustered": 2849,
+   "pooled": 0.3398,
+   "clustered": 0.2955,
+   "entropy": 2.9854
+  },
+  "143": {
+   "n": 4125,
+   "n_clustered": 2826,
+   "pooled": 0.369,
+   "clustered": 0.3139,
+   "entropy": 2.7192
+  },
+  "144": {
+   "n": 3948,
+   "n_clustered": 2697,
+   "pooled": 0.349,
+   "clustered": 0.333,
+   "entropy": 3.1745
+  },
+  "145": {
+   "n": 3707,
+   "n_clustered": 2528,
+   "pooled": 0.3472,
+   "clustered": 0.3121,
+   "entropy": 3.1013
+  },
+  "146": {
+   "n": 3545,
+   "n_clustered": 2425,
+   "pooled": 0.1805,
+   "clustered": 0.219,
+   "entropy": 3.5967
+  },
+  "147": {
+   "n": 3314,
+   "n_clustered": 2291,
+   "pooled": 0.1316,
+   "clustered": 0.1401,
+   "entropy": 3.7639
+  },
+  "148": {
+   "n": 2913,
+   "n_clustered": 2154,
+   "pooled": 0.2108,
+   "clustered": 0.2052,
+   "entropy": 3.6511
+  },
+  "149": {
+   "n": 3384,
+   "n_clustered": 2327,
+   "pooled": 0.3144,
+   "clustered": 0.2471,
+   "entropy": 3.4043
+  },
+  "150": {
+   "n": 3494,
+   "n_clustered": 2399,
+   "pooled": 0.4648,
+   "clustered": 0.4573,
+   "entropy": 2.9065
+  },
+  "151": {
+   "n": 3698,
+   "n_clustered": 2555,
+   "pooled": 0.2793,
+   "clustered": 0.2607,
+   "entropy": 3.3535
+  },
+  "152": {
+   "n": 3867,
+   "n_clustered": 2653,
+   "pooled": 0.625,
+   "clustered": 0.5537,
+   "entropy": 2.0204
+  },
+  "153": {
+   "n": 4179,
+   "n_clustered": 2877,
+   "pooled": 0.8361,
+   "clustered": 0.8109,
+   "entropy": 1.0925
+  },
+  "154": {
+   "n": 4262,
+   "n_clustered": 2932,
+   "pooled": 0.493,
+   "clustered": 0.4458,
+   "entropy": 1.7629
+  },
+  "155": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8209,
+   "clustered": 0.7733,
+   "entropy": 0.9999
+  },
+  "156": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.9621,
+   "clustered": 0.9613,
+   "entropy": 0.3425
+  },
+  "157": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9979,
+   "clustered": 0.998,
+   "entropy": 0.027
+  },
+  "158": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.94,
+   "clustered": 0.9192,
+   "entropy": 0.377
+  },
+  "159": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9757,
+   "clustered": 0.9722,
+   "entropy": 0.1884
+  },
+  "160": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9071,
+   "clustered": 0.9287,
+   "entropy": 0.6354
+  },
+  "161": {
+   "n": 4270,
+   "n_clustered": 2935,
+   "pooled": 0.4283,
+   "clustered": 0.3932,
+   "entropy": 2.176
+  },
+  "162": {
+   "n": 4266,
+   "n_clustered": 2931,
+   "pooled": 0.9348,
+   "clustered": 0.9444,
+   "entropy": 0.5106
+  },
+  "163": {
+   "n": 4276,
+   "n_clustered": 2941,
+   "pooled": 0.9448,
+   "clustered": 0.9483,
+   "entropy": 0.4464
+  },
+  "164": {
+   "n": 4276,
+   "n_clustered": 2943,
+   "pooled": 0.4329,
+   "clustered": 0.5002,
+   "entropy": 2.5494
+  },
+  "165": {
+   "n": 4274,
+   "n_clustered": 2939,
+   "pooled": 0.4651,
+   "clustered": 0.4263,
+   "entropy": 1.9797
+  },
+  "166": {
+   "n": 4272,
+   "n_clustered": 2939,
+   "pooled": 0.7123,
+   "clustered": 0.6921,
+   "entropy": 1.5967
+  },
+  "167": {
+   "n": 4274,
+   "n_clustered": 2943,
+   "pooled": 0.8119,
+   "clustered": 0.8491,
+   "entropy": 1.0394
+  },
+  "168": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.8395,
+   "clustered": 0.8309,
+   "entropy": 0.8026
+  },
+  "169": {
+   "n": 4267,
+   "n_clustered": 2935,
+   "pooled": 0.3389,
+   "clustered": 0.386,
+   "entropy": 2.8613
+  },
+  "170": {
+   "n": 4207,
+   "n_clustered": 2876,
+   "pooled": 0.6142,
+   "clustered": 0.5678,
+   "entropy": 1.6282
+  },
+  "171": {
+   "n": 4245,
+   "n_clustered": 2918,
+   "pooled": 0.7093,
+   "clustered": 0.6861,
+   "entropy": 1.6137
+  },
+  "172": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.4792,
+   "clustered": 0.4272,
+   "entropy": 2.0821
+  },
+  "173": {
+   "n": 4276,
+   "n_clustered": 2941,
+   "pooled": 0.6885,
+   "clustered": 0.628,
+   "entropy": 1.6281
+  },
+  "174": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8777,
+   "clustered": 0.8666,
+   "entropy": 0.5765
+  },
+  "175": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.908,
+   "clustered": 0.9117,
+   "entropy": 0.6721
+  },
+  "176": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9622,
+   "clustered": 0.9667,
+   "entropy": 0.242
+  },
+  "177": {
+   "n": 4282,
+   "n_clustered": 2948,
+   "pooled": 0.9316,
+   "clustered": 0.9325,
+   "entropy": 0.4791
+  },
+  "178": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.5569,
+   "clustered": 0.5229,
+   "entropy": 1.7451
+  },
+  "179": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8585,
+   "clustered": 0.8527,
+   "entropy": 1.0499
+  },
+  "180": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9965,
+   "clustered": 0.9952,
+   "entropy": 0.042
+  },
+  "181": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.4586,
+   "clustered": 0.4939,
+   "entropy": 1.4029
+  },
+  "182": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.8671,
+   "clustered": 0.8564,
+   "entropy": 0.8768
+  },
+  "183": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.6386,
+   "clustered": 0.6394,
+   "entropy": 1.6711
+  },
+  "184": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.6462,
+   "clustered": 0.6247,
+   "entropy": 1.4983
+  },
+  "185": {
+   "n": 4215,
+   "n_clustered": 2887,
+   "pooled": 0.497,
+   "clustered": 0.4562,
+   "entropy": 2.1533
+  },
+  "186": {
+   "n": 4259,
+   "n_clustered": 2928,
+   "pooled": 0.6131,
+   "clustered": 0.5994,
+   "entropy": 2.0023
+  },
+  "187": {
+   "n": 4123,
+   "n_clustered": 2825,
+   "pooled": 0.3949,
+   "clustered": 0.3402,
+   "entropy": 2.31
+  },
+  "188": {
+   "n": 4055,
+   "n_clustered": 2786,
+   "pooled": 0.4513,
+   "clustered": 0.4049,
+   "entropy": 2.2039
+  },
+  "189": {
+   "n": 4213,
+   "n_clustered": 2907,
+   "pooled": 0.4441,
+   "clustered": 0.3732,
+   "entropy": 2.3089
+  },
+  "190": {
+   "n": 4228,
+   "n_clustered": 2910,
+   "pooled": 0.5225,
+   "clustered": 0.5014,
+   "entropy": 2.5115
+  },
+  "191": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.9857,
+   "clustered": 0.981,
+   "entropy": 0.1365
+  },
+  "192": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.8168,
+   "clustered": 0.8384,
+   "entropy": 1.1283
+  },
+  "193": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9783,
+   "clustered": 0.9796,
+   "entropy": 0.19
+  },
+  "194": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9014,
+   "clustered": 0.9128,
+   "entropy": 0.683
+  },
+  "195": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.5924,
+   "clustered": 0.6411,
+   "entropy": 1.3223
+  },
+  "196": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9977,
+   "clustered": 0.9969,
+   "entropy": 0.0288
+  },
+  "197": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9738,
+   "clustered": 0.9766,
+   "entropy": 0.2214
+  },
+  "198": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9173,
+   "clustered": 0.9094,
+   "entropy": 0.5688
+  },
+  "199": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9865,
+   "clustered": 0.982,
+   "entropy": 0.1181
+  },
+  "200": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.5359,
+   "clustered": 0.4783,
+   "entropy": 1.7002
+  },
+  "201": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.8797,
+   "clustered": 0.8717,
+   "entropy": 0.7124
+  },
+  "202": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.8247,
+   "clustered": 0.7809,
+   "entropy": 0.8044
+  },
+  "203": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9923,
+   "clustered": 0.9905,
+   "entropy": 0.0834
+  },
+  "204": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.986,
+   "clustered": 0.984,
+   "entropy": 0.1358
+  },
+  "205": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9972,
+   "clustered": 0.9963,
+   "entropy": 0.0335
+  },
+  "206": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9974,
+   "clustered": 0.998,
+   "entropy": 0.0286
+  },
+  "207": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9967,
+   "clustered": 0.9956,
+   "entropy": 0.0398
+  },
+  "208": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.8104,
+   "clustered": 0.7974,
+   "entropy": 0.831
+  },
+  "209": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.714,
+   "clustered": 0.6997,
+   "entropy": 1.0452
+  },
+  "210": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9718,
+   "clustered": 0.962,
+   "entropy": 0.2111
+  },
+  "211": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.6601,
+   "clustered": 0.6013,
+   "entropy": 1.113
+  },
+  "212": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9993,
+   "clustered": 0.999,
+   "entropy": 0.009
+  },
+  "213": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9783,
+   "clustered": 0.9817,
+   "entropy": 0.1787
+  },
+  "214": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9986,
+   "clustered": 0.9983,
+   "entropy": 0.0166
+  },
+  "215": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.982,
+   "clustered": 0.9756,
+   "entropy": 0.1437
+  },
+  "216": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9902,
+   "clustered": 0.9878,
+   "entropy": 0.0963
+  },
+  "217": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9645,
+   "clustered": 0.965,
+   "entropy": 0.2392
+  },
+  "218": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9984,
+   "clustered": 0.9983,
+   "entropy": 0.021
+  },
+  "219": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.7707,
+   "clustered": 0.7383,
+   "entropy": 0.8298
+  },
+  "220": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9977,
+   "clustered": 0.9969,
+   "entropy": 0.0275
+  },
+  "221": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9937,
+   "clustered": 0.9919,
+   "entropy": 0.0678
+  },
+  "222": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9974,
+   "clustered": 0.9969,
+   "entropy": 0.0306
+  },
+  "223": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.6843,
+   "clustered": 0.6277,
+   "entropy": 0.9207
+  },
+  "224": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9752,
+   "clustered": 0.9691,
+   "entropy": 0.1904
+  },
+  "225": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9419,
+   "clustered": 0.9308,
+   "entropy": 0.3638
+  },
+  "226": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9647,
+   "clustered": 0.9616,
+   "entropy": 0.272
+  },
+  "227": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9512,
+   "clustered": 0.9579,
+   "entropy": 0.3509
+  },
+  "228": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9981,
+   "clustered": 0.9973,
+   "entropy": 0.0225
+  },
+  "229": {
+   "n": 4277,
+   "n_clustered": 2941,
+   "pooled": 0.7449,
+   "clustered": 0.7378,
+   "entropy": 1.1604
+  },
+  "230": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.6112,
+   "clustered": 0.6045,
+   "entropy": 1.3136
+  },
+  "231": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.8514,
+   "clustered": 0.8488,
+   "entropy": 1.0058
+  },
+  "232": {
+   "n": 4274,
+   "n_clustered": 2938,
+   "pooled": 0.3793,
+   "clustered": 0.3376,
+   "entropy": 2.3625
+  },
+  "233": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9944,
+   "clustered": 0.9932,
+   "entropy": 0.06
+  },
+  "234": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.8807,
+   "clustered": 0.8917,
+   "entropy": 0.7879
+  },
+  "235": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9988,
+   "clustered": 0.9983,
+   "entropy": 0.0139
+  },
+  "236": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.7801,
+   "clustered": 0.8331,
+   "entropy": 1.1578
+  },
+  "237": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9939,
+   "clustered": 0.9956,
+   "entropy": 0.0591
+  },
+  "238": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.8069,
+   "clustered": 0.8035,
+   "entropy": 1.2201
+  },
+  "239": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9981,
+   "clustered": 0.999,
+   "entropy": 0.0214
+  },
+  "240": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.3616,
+   "clustered": 0.3776,
+   "entropy": 2.3391
+  },
+  "241": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9731,
+   "clustered": 0.9732,
+   "entropy": 0.2353
+  },
+  "242": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9846,
+   "clustered": 0.9847,
+   "entropy": 0.1278
+  },
+  "243": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9921,
+   "clustered": 0.9895,
+   "entropy": 0.0769
+  },
+  "244": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.8447,
+   "clustered": 0.7948,
+   "entropy": 0.7598
+  },
+  "245": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9834,
+   "clustered": 0.9864,
+   "entropy": 0.1432
+  },
+  "246": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9832,
+   "clustered": 0.982,
+   "entropy": 0.16
+  },
+  "247": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9979,
+   "clustered": 0.9976,
+   "entropy": 0.0274
+  },
+  "248": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9967,
+   "clustered": 0.9963,
+   "entropy": 0.0391
+  },
+  "249": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9904,
+   "clustered": 0.9942,
+   "entropy": 0.0929
+  },
+  "250": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9979,
+   "clustered": 0.9973,
+   "entropy": 0.0256
+  },
+  "251": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.997,
+   "clustered": 0.9959,
+   "entropy": 0.0369
+  },
+  "252": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.5422,
+   "clustered": 0.6164,
+   "entropy": 1.0671
+  },
+  "253": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9984,
+   "clustered": 0.9983,
+   "entropy": 0.0205
+  },
+  "254": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.976,
+   "clustered": 0.9739,
+   "entropy": 0.2113
+  },
+  "255": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9643,
+   "clustered": 0.9603,
+   "entropy": 0.2614
+  },
+  "256": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9848,
+   "clustered": 0.9847,
+   "entropy": 0.125
+  },
+  "257": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9958,
+   "clustered": 0.9952,
+   "entropy": 0.0484
+  },
+  "258": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.99,
+   "clustered": 0.9864,
+   "entropy": 0.0966
+  },
+  "259": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9932,
+   "clustered": 0.9919,
+   "entropy": 0.0676
+  },
+  "260": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9928,
+   "clustered": 0.9905,
+   "entropy": 0.0737
+  },
+  "261": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9949,
+   "clustered": 0.9939,
+   "entropy": 0.0573
+  },
+  "262": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9981,
+   "clustered": 0.998,
+   "entropy": 0.0234
+  },
+  "263": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9986,
+   "clustered": 0.998,
+   "entropy": 0.0189
+  },
+  "264": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9928,
+   "clustered": 0.9898,
+   "entropy": 0.0756
+  },
+  "265": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.986,
+   "clustered": 0.9837,
+   "entropy": 0.1351
+  },
+  "266": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9596,
+   "clustered": 0.9582,
+   "entropy": 0.2833
+  },
+  "267": {
+   "n": 4215,
+   "n_clustered": 2919,
+   "pooled": 0.958,
+   "clustered": 0.9507,
+   "entropy": 0.3164
+  },
+  "268": {
+   "n": 4278,
+   "n_clustered": 2943,
+   "pooled": 0.6531,
+   "clustered": 0.6317,
+   "entropy": 1.5257
+  },
+  "269": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.7272,
+   "clustered": 0.7261,
+   "entropy": 1.4371
+  },
+  "270": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.5016,
+   "clustered": 0.5614,
+   "entropy": 1.1671
+  },
+  "271": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.4621,
+   "clustered": 0.4327,
+   "entropy": 1.7611
+  },
+  "272": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9472,
+   "clustered": 0.943,
+   "entropy": 0.3718
+  },
+  "273": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9538,
+   "clustered": 0.9406,
+   "entropy": 0.3383
+  },
+  "274": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9544,
+   "clustered": 0.9447,
+   "entropy": 0.3808
+  },
+  "275": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.7094,
+   "clustered": 0.7155,
+   "entropy": 1.6224
+  },
+  "276": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.9808,
+   "clustered": 0.9806,
+   "entropy": 0.1607
+  },
+  "277": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.4506,
+   "clustered": 0.3673,
+   "entropy": 1.6508
+  },
+  "278": {
+   "n": 4277,
+   "n_clustered": 2943,
+   "pooled": 0.7805,
+   "clustered": 0.7883,
+   "entropy": 0.9428
+  },
+  "279": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.527,
+   "clustered": 0.5392,
+   "entropy": 1.1907
+  },
+  "280": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9853,
+   "clustered": 0.9823,
+   "entropy": 0.1372
+  },
+  "281": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.7271,
+   "clustered": 0.7296,
+   "entropy": 1.3759
+  },
+  "282": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9391,
+   "clustered": 0.9423,
+   "entropy": 0.4918
+  },
+  "283": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.6957,
+   "clustered": 0.6906,
+   "entropy": 1.3955
+  },
+  "284": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.993,
+   "clustered": 0.9912,
+   "entropy": 0.0715
+  },
+  "285": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.94,
+   "clustered": 0.9542,
+   "entropy": 0.3924
+  },
+  "286": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9834,
+   "clustered": 0.9803,
+   "entropy": 0.1466
+  },
+  "287": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.6846,
+   "clustered": 0.639,
+   "entropy": 0.9617
+  },
+  "288": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9496,
+   "clustered": 0.9386,
+   "entropy": 0.3072
+  },
+  "289": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.7014,
+   "clustered": 0.7208,
+   "entropy": 1.5245
+  },
+  "290": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.5303,
+   "clustered": 0.5105,
+   "entropy": 2.2231
+  },
+  "291": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.6202,
+   "clustered": 0.6147,
+   "entropy": 1.5826
+  },
+  "292": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9251,
+   "clustered": 0.9152,
+   "entropy": 0.4143
+  },
+  "293": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.4883,
+   "clustered": 0.4518,
+   "entropy": 2.7047
+  },
+  "294": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9802,
+   "clustered": 0.9803,
+   "entropy": 0.1664
+  },
+  "295": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.7348,
+   "clustered": 0.7017,
+   "entropy": 1.511
+  },
+  "296": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9988,
+   "clustered": 0.9983,
+   "entropy": 0.0147
+  },
+  "297": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.829,
+   "clustered": 0.8143,
+   "entropy": 1.0451
+  },
+  "298": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9977,
+   "clustered": 0.9976,
+   "entropy": 0.0274
+  },
+  "299": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9664,
+   "clustered": 0.9752,
+   "entropy": 0.2765
+  },
+  "300": {
+   "n": 4265,
+   "n_clustered": 2934,
+   "pooled": 0.6696,
+   "clustered": 0.6305,
+   "entropy": 1.5851
+  },
+  "301": {
+   "n": 4275,
+   "n_clustered": 2942,
+   "pooled": 0.9614,
+   "clustered": 0.9551,
+   "entropy": 0.3673
+  },
+  "302": {
+   "n": 4269,
+   "n_clustered": 2937,
+   "pooled": 0.9609,
+   "clustered": 0.9564,
+   "entropy": 0.3561
+  },
+  "303": {
+   "n": 4257,
+   "n_clustered": 2926,
+   "pooled": 0.9535,
+   "clustered": 0.9467,
+   "entropy": 0.4019
+  },
+  "304": {
+   "n": 4253,
+   "n_clustered": 2919,
+   "pooled": 0.9353,
+   "clustered": 0.9322,
+   "entropy": 0.5264
+  },
+  "305": {
+   "n": 4262,
+   "n_clustered": 2927,
+   "pooled": 0.7149,
+   "clustered": 0.6812,
+   "entropy": 1.3984
+  },
+  "306": {
+   "n": 4191,
+   "n_clustered": 2879,
+   "pooled": 0.7597,
+   "clustered": 0.7642,
+   "entropy": 1.2539
+  },
+  "307": {
+   "n": 4189,
+   "n_clustered": 2877,
+   "pooled": 0.7801,
+   "clustered": 0.755,
+   "entropy": 1.151
+  },
+  "308": {
+   "n": 4260,
+   "n_clustered": 2927,
+   "pooled": 0.3427,
+   "clustered": 0.3744,
+   "entropy": 2.4018
+  },
+  "309": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.7698,
+   "clustered": 0.7649,
+   "entropy": 1.1824
+  },
+  "310": {
+   "n": 296,
+   "n_clustered": 188,
+   "pooled": 0.2804,
+   "clustered": 0.2287,
+   "entropy": 2.6682
+  },
+  "311": {
+   "n": 271,
+   "n_clustered": 180,
+   "pooled": 0.2657,
+   "clustered": 0.2556,
+   "entropy": 2.9428
+  },
+  "312": {
+   "n": 4247,
+   "n_clustered": 2929,
+   "pooled": 0.9699,
+   "clustered": 0.9788,
+   "entropy": 0.2067
+  },
+  "313": {
+   "n": 4269,
+   "n_clustered": 2935,
+   "pooled": 0.9562,
+   "clustered": 0.9482,
+   "entropy": 0.3874
+  },
+  "314": {
+   "n": 4272,
+   "n_clustered": 2936,
+   "pooled": 0.9878,
+   "clustered": 0.9877,
+   "entropy": 0.1248
+  },
+  "315": {
+   "n": 4270,
+   "n_clustered": 2942,
+   "pooled": 0.4396,
+   "clustered": 0.4959,
+   "entropy": 1.7259
+  },
+  "316": {
+   "n": 4268,
+   "n_clustered": 2944,
+   "pooled": 0.5843,
+   "clustered": 0.5411,
+   "entropy": 1.6867
+  },
+  "317": {
+   "n": 4278,
+   "n_clustered": 2943,
+   "pooled": 0.7938,
+   "clustered": 0.7948,
+   "entropy": 1.2242
+  },
+  "318": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.8236,
+   "clustered": 0.817,
+   "entropy": 1.1409
+  },
+  "319": {
+   "n": 4278,
+   "n_clustered": 2946,
+   "pooled": 0.5676,
+   "clustered": 0.5655,
+   "entropy": 1.6004
+  },
+  "320": {
+   "n": 4274,
+   "n_clustered": 2939,
+   "pooled": 0.8079,
+   "clustered": 0.7969,
+   "entropy": 1.3391
+  },
+  "321": {
+   "n": 4276,
+   "n_clustered": 2942,
+   "pooled": 0.8136,
+   "clustered": 0.8073,
+   "entropy": 1.1943
+  },
+  "322": {
+   "n": 4271,
+   "n_clustered": 2937,
+   "pooled": 0.447,
+   "clustered": 0.4399,
+   "entropy": 2.4997
+  },
+  "323": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9619,
+   "clustered": 0.9548,
+   "entropy": 0.338
+  },
+  "324": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.986,
+   "clustered": 0.9891,
+   "entropy": 0.1432
+  },
+  "325": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8321,
+   "clustered": 0.8293,
+   "entropy": 0.8573
+  },
+  "326": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9666,
+   "clustered": 0.9664,
+   "entropy": 0.3123
+  },
+  "327": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9797,
+   "clustered": 0.9776,
+   "entropy": 0.1887
+  },
+  "328": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.6854,
+   "clustered": 0.648,
+   "entropy": 1.4003
+  },
+  "329": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9909,
+   "clustered": 0.9922,
+   "entropy": 0.0907
+  },
+  "330": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.7232,
+   "clustered": 0.6995,
+   "entropy": 1.0427
+  },
+  "331": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9988,
+   "clustered": 0.9983,
+   "entropy": 0.0148
+  },
+  "332": {
+   "n": 4276,
+   "n_clustered": 2942,
+   "pooled": 0.8057,
+   "clustered": 0.776,
+   "entropy": 1.2151
+  },
+  "333": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.641,
+   "clustered": 0.6141,
+   "entropy": 1.3384
+  },
+  "334": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.7678,
+   "clustered": 0.7261,
+   "entropy": 0.9838
+  },
+  "335": {
+   "n": 4232,
+   "n_clustered": 2906,
+   "pooled": 0.3991,
+   "clustered": 0.3606,
+   "entropy": 2.4337
+  },
+  "336": {
+   "n": 4243,
+   "n_clustered": 2913,
+   "pooled": 0.3354,
+   "clustered": 0.3683,
+   "entropy": 2.8537
+  },
+  "337": {
+   "n": 4272,
+   "n_clustered": 2938,
+   "pooled": 0.4092,
+   "clustered": 0.3771,
+   "entropy": 2.73
+  },
+  "338": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.9981,
+   "clustered": 0.9976,
+   "entropy": 0.0237
+  },
+  "339": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.7293,
+   "clustered": 0.7267,
+   "entropy": 1.7085
+  },
+  "340": {
+   "n": 4277,
+   "n_clustered": 2941,
+   "pooled": 0.3694,
+   "clustered": 0.3138,
+   "entropy": 2.4908
+  },
+  "341": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.8481,
+   "clustered": 0.8244,
+   "entropy": 0.8983
+  },
+  "342": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9752,
+   "clustered": 0.9708,
+   "entropy": 0.2185
+  },
+  "343": {
+   "n": 4271,
+   "n_clustered": 2938,
+   "pooled": 0.3168,
+   "clustered": 0.2842,
+   "entropy": 2.8345
+  },
+  "344": {
+   "n": 4276,
+   "n_clustered": 2943,
+   "pooled": 0.4818,
+   "clustered": 0.4743,
+   "entropy": 2.3053
+  },
+  "345": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.5905,
+   "clustered": 0.661,
+   "entropy": 1.0916
+  },
+  "346": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.3732,
+   "clustered": 0.3024,
+   "entropy": 2.4394
+  },
+  "347": {
+   "n": 4273,
+   "n_clustered": 2938,
+   "pooled": 0.2661,
+   "clustered": 0.2828,
+   "entropy": 2.9703
+  },
+  "348": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8123,
+   "clustered": 0.7794,
+   "entropy": 1.0089
+  },
+  "349": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.99,
+   "clustered": 0.9861,
+   "entropy": 0.105
+  },
+  "350": {
+   "n": 4245,
+   "n_clustered": 2919,
+   "pooled": 0.4466,
+   "clustered": 0.4347,
+   "entropy": 2.4032
+  },
+  "351": {
+   "n": 4270,
+   "n_clustered": 2937,
+   "pooled": 0.6642,
+   "clustered": 0.6544,
+   "entropy": 1.9082
+  },
+  "352": {
+   "n": 4268,
+   "n_clustered": 2934,
+   "pooled": 0.4494,
+   "clustered": 0.377,
+   "entropy": 2.0991
+  },
+  "353": {
+   "n": 4272,
+   "n_clustered": 2937,
+   "pooled": 0.8607,
+   "clustered": 0.8478,
+   "entropy": 0.8767
+  },
+  "354": {
+   "n": 1585,
+   "n_clustered": 990,
+   "pooled": 0.6858,
+   "clustered": 0.6152,
+   "entropy": 1.8568
+  },
+  "355": {
+   "n": 2999,
+   "n_clustered": 2099,
+   "pooled": 0.3374,
+   "clustered": 0.3249,
+   "entropy": 2.7478
+  },
+  "356": {
+   "n": 4277,
+   "n_clustered": 2941,
+   "pooled": 0.8043,
+   "clustered": 0.7878,
+   "entropy": 1.3099
+  },
+  "357": {
+   "n": 4215,
+   "n_clustered": 2891,
+   "pooled": 0.7839,
+   "clustered": 0.7572,
+   "entropy": 1.2496
+  },
+  "358": {
+   "n": 4226,
+   "n_clustered": 2893,
+   "pooled": 0.8717,
+   "clustered": 0.8607,
+   "entropy": 0.8864
+  },
+  "359": {
+   "n": 4263,
+   "n_clustered": 2932,
+   "pooled": 0.9803,
+   "clustered": 0.9731,
+   "entropy": 0.1937
+  },
+  "360": {
+   "n": 4276,
+   "n_clustered": 2940,
+   "pooled": 0.2788,
+   "clustered": 0.2833,
+   "entropy": 2.9282
+  },
+  "361": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9797,
+   "clustered": 0.9807,
+   "entropy": 0.1948
+  },
+  "362": {
+   "n": 4276,
+   "n_clustered": 2941,
+   "pooled": 0.4266,
+   "clustered": 0.3886,
+   "entropy": 2.5614
+  },
+  "363": {
+   "n": 4274,
+   "n_clustered": 2938,
+   "pooled": 0.2911,
+   "clustered": 0.3251,
+   "entropy": 2.5881
+  },
+  "364": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.7539,
+   "clustered": 0.7101,
+   "entropy": 1.1478
+  },
+  "365": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.898,
+   "clustered": 0.8873,
+   "entropy": 0.7133
+  },
+  "366": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9972,
+   "clustered": 0.9963,
+   "entropy": 0.0335
+  },
+  "367": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9986,
+   "clustered": 0.998,
+   "entropy": 0.0178
+  },
+  "368": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9979,
+   "clustered": 0.9973,
+   "entropy": 0.026
+  },
+  "369": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.4887,
+   "clustered": 0.5132,
+   "entropy": 1.3962
+  },
+  "370": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9965,
+   "clustered": 0.9953,
+   "entropy": 0.0434
+  },
+  "371": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8896,
+   "clustered": 0.8826,
+   "entropy": 0.5794
+  },
+  "372": {
+   "n": 4278,
+   "n_clustered": 2942,
+   "pooled": 0.5065,
+   "clustered": 0.5836,
+   "entropy": 1.3845
+  },
+  "373": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.4751,
+   "clustered": 0.5171,
+   "entropy": 1.4208
+  },
+  "374": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9694,
+   "clustered": 0.9637,
+   "entropy": 0.2489
+  },
+  "375": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.8151,
+   "clustered": 0.7748,
+   "entropy": 1.0374
+  },
+  "376": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9841,
+   "clustered": 0.9827,
+   "entropy": 0.1445
+  },
+  "377": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.9678,
+   "clustered": 0.964,
+   "entropy": 0.2622
+  },
+  "378": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.997,
+   "clustered": 0.9956,
+   "entropy": 0.0358
+  },
+  "379": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.6418,
+   "clustered": 0.5806,
+   "entropy": 1.2955
+  },
+  "380": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9979,
+   "clustered": 0.9969,
+   "entropy": 0.0254
+  },
+  "381": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9946,
+   "clustered": 0.9949,
+   "entropy": 0.0566
+  },
+  "382": {
+   "n": 4282,
+   "n_clustered": 2948,
+   "pooled": 0.9984,
+   "clustered": 0.9976,
+   "entropy": 0.0202
+  },
+  "383": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.9951,
+   "clustered": 0.9939,
+   "entropy": 0.0521
+  },
+  "384": {
+   "n": 4278,
+   "n_clustered": 2943,
+   "pooled": 0.979,
+   "clustered": 0.9786,
+   "entropy": 0.1643
+  },
+  "385": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.9984,
+   "clustered": 0.998,
+   "entropy": 0.0207
+  },
+  "386": {
+   "n": 4277,
+   "n_clustered": 2943,
+   "pooled": 0.9126,
+   "clustered": 0.9106,
+   "entropy": 0.5355
+  },
+  "387": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.8015,
+   "clustered": 0.866,
+   "entropy": 0.7997
+  },
+  "388": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.503,
+   "clustered": 0.5158,
+   "entropy": 1.2716
+  },
+  "389": {
+   "n": 4274,
+   "n_clustered": 2942,
+   "pooled": 0.3622,
+   "clustered": 0.3165,
+   "entropy": 2.7333
+  },
+  "390": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9928,
+   "clustered": 0.9895,
+   "entropy": 0.0706
+  },
+  "391": {
+   "n": 4230,
+   "n_clustered": 2914,
+   "pooled": 0.9969,
+   "clustered": 0.9962,
+   "entropy": 0.0371
+  },
+  "392": {
+   "n": 4131,
+   "n_clustered": 2853,
+   "pooled": 0.916,
+   "clustered": 0.9127,
+   "entropy": 0.6589
+  },
+  "393": {
+   "n": 3979,
+   "n_clustered": 2753,
+   "pooled": 0.7248,
+   "clustered": 0.6778,
+   "entropy": 1.6702
+  },
+  "394": {
+   "n": 3925,
+   "n_clustered": 2702,
+   "pooled": 0.8543,
+   "clustered": 0.8379,
+   "entropy": 1.0427
+  },
+  "395": {
+   "n": 3656,
+   "n_clustered": 2477,
+   "pooled": 0.7514,
+   "clustered": 0.7021,
+   "entropy": 1.472
+  },
+  "396": {
+   "n": 3356,
+   "n_clustered": 2253,
+   "pooled": 0.2122,
+   "clustered": 0.1758,
+   "entropy": 3.6994
+  },
+  "397": {
+   "n": 3434,
+   "n_clustered": 2349,
+   "pooled": 0.7225,
+   "clustered": 0.699,
+   "entropy": 1.8074
+  },
+  "398": {
+   "n": 3216,
+   "n_clustered": 2268,
+   "pooled": 0.3113,
+   "clustered": 0.2835,
+   "entropy": 2.7984
+  },
+  "399": {
+   "n": 3053,
+   "n_clustered": 2149,
+   "pooled": 0.7104,
+   "clustered": 0.6919,
+   "entropy": 1.8112
+  },
+  "400": {
+   "n": 2568,
+   "n_clustered": 1787,
+   "pooled": 0.447,
+   "clustered": 0.4096,
+   "entropy": 3.0013
+  },
+  "401": {
+   "n": 2992,
+   "n_clustered": 2089,
+   "pooled": 0.3102,
+   "clustered": 0.2753,
+   "entropy": 3.1361
+  },
+  "402": {
+   "n": 3144,
+   "n_clustered": 2083,
+   "pooled": 0.534,
+   "clustered": 0.4738,
+   "entropy": 2.7454
+  },
+  "403": {
+   "n": 3107,
+   "n_clustered": 2060,
+   "pooled": 0.2964,
+   "clustered": 0.2966,
+   "entropy": 3.3624
+  },
+  "404": {
+   "n": 3336,
+   "n_clustered": 2221,
+   "pooled": 0.432,
+   "clustered": 0.4196,
+   "entropy": 2.9998
+  },
+  "405": {
+   "n": 3777,
+   "n_clustered": 2539,
+   "pooled": 0.3516,
+   "clustered": 0.3367,
+   "entropy": 3.3197
+  },
+  "406": {
+   "n": 4018,
+   "n_clustered": 2727,
+   "pooled": 0.6889,
+   "clustered": 0.6542,
+   "entropy": 1.9428
+  },
+  "407": {
+   "n": 3882,
+   "n_clustered": 2611,
+   "pooled": 0.3854,
+   "clustered": 0.3658,
+   "entropy": 2.8646
+  },
+  "408": {
+   "n": 3621,
+   "n_clustered": 2410,
+   "pooled": 0.6675,
+   "clustered": 0.639,
+   "entropy": 2.0887
+  },
+  "409": {
+   "n": 3246,
+   "n_clustered": 2133,
+   "pooled": 0.346,
+   "clustered": 0.3418,
+   "entropy": 3.0748
+  },
+  "410": {
+   "n": 3016,
+   "n_clustered": 2015,
+   "pooled": 0.3873,
+   "clustered": 0.3404,
+   "entropy": 2.9429
+  },
+  "411": {
+   "n": 3296,
+   "n_clustered": 2286,
+   "pooled": 0.598,
+   "clustered": 0.5914,
+   "entropy": 2.042
+  },
+  "412": {
+   "n": 3435,
+   "n_clustered": 2404,
+   "pooled": 0.3476,
+   "clustered": 0.3357,
+   "entropy": 2.9386
+  },
+  "413": {
+   "n": 3984,
+   "n_clustered": 2779,
+   "pooled": 0.6175,
+   "clustered": 0.5948,
+   "entropy": 1.8353
+  },
+  "414": {
+   "n": 4268,
+   "n_clustered": 2933,
+   "pooled": 0.9557,
+   "clustered": 0.9529,
+   "entropy": 0.355
+  },
+  "415": {
+   "n": 4264,
+   "n_clustered": 2931,
+   "pooled": 0.7615,
+   "clustered": 0.7462,
+   "entropy": 1.1619
+  },
+  "416": {
+   "n": 4275,
+   "n_clustered": 2939,
+   "pooled": 0.8861,
+   "clustered": 0.8653,
+   "entropy": 0.5427
+  },
+  "417": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.8212,
+   "clustered": 0.8124,
+   "entropy": 0.9324
+  },
+  "418": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9977,
+   "clustered": 0.9966,
+   "entropy": 0.0301
+  },
+  "419": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.8594,
+   "clustered": 0.8249,
+   "entropy": 0.6663
+  },
+  "420": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.9843,
+   "clustered": 0.984,
+   "entropy": 0.1347
+  },
+  "421": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9306,
+   "clustered": 0.9257,
+   "entropy": 0.3824
+  },
+  "422": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9942,
+   "clustered": 0.9919,
+   "entropy": 0.0646
+  },
+  "423": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.904,
+   "clustered": 0.8917,
+   "entropy": 0.5708
+  },
+  "424": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.7942,
+   "clustered": 0.765,
+   "entropy": 0.7633
+  },
+  "425": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9255,
+   "clustered": 0.9125,
+   "entropy": 0.4893
+  },
+  "426": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.8185,
+   "clustered": 0.8358,
+   "entropy": 0.9946
+  },
+  "427": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9972,
+   "clustered": 0.9959,
+   "entropy": 0.0328
+  },
+  "428": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9897,
+   "clustered": 0.9854,
+   "entropy": 0.1122
+  },
+  "429": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.5587,
+   "clustered": 0.4976,
+   "entropy": 1.8408
+  },
+  "430": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.8963,
+   "clustered": 0.8819,
+   "entropy": 0.6563
+  },
+  "431": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9925,
+   "clustered": 0.9905,
+   "entropy": 0.0759
+  },
+  "432": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.5151,
+   "clustered": 0.434,
+   "entropy": 1.5475
+  },
+  "433": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9904,
+   "clustered": 0.9868,
+   "entropy": 0.096
+  },
+  "434": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.8935,
+   "clustered": 0.8921,
+   "entropy": 0.5729
+  },
+  "435": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9967,
+   "clustered": 0.9952,
+   "entropy": 0.0391
+  },
+  "436": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.986,
+   "clustered": 0.9858,
+   "entropy": 0.1368
+  },
+  "437": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9636,
+   "clustered": 0.9539,
+   "entropy": 0.2884
+  },
+  "438": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.997,
+   "clustered": 0.9963,
+   "entropy": 0.0364
+  },
+  "439": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9613,
+   "clustered": 0.962,
+   "entropy": 0.3089
+  },
+  "440": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.2816,
+   "clustered": 0.2334,
+   "entropy": 2.7603
+  },
+  "441": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.9956,
+   "clustered": 0.9942,
+   "entropy": 0.0499
+  },
+  "442": {
+   "n": 4279,
+   "n_clustered": 2945,
+   "pooled": 0.3459,
+   "clustered": 0.2723,
+   "entropy": 3.0849
+  },
+  "443": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9589,
+   "clustered": 0.9589,
+   "entropy": 0.288
+  },
+  "444": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.4182,
+   "clustered": 0.3601,
+   "entropy": 2.3622
+  },
+  "445": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9979,
+   "clustered": 0.9976,
+   "entropy": 0.0265
+  },
+  "446": {
+   "n": 4277,
+   "n_clustered": 2941,
+   "pooled": 0.415,
+   "clustered": 0.3509,
+   "entropy": 2.8703
+  },
+  "447": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9958,
+   "clustered": 0.9956,
+   "entropy": 0.0477
+  },
+  "448": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9194,
+   "clustered": 0.9148,
+   "entropy": 0.6059
+  },
+  "449": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9972,
+   "clustered": 0.9963,
+   "entropy": 0.0328
+  },
+  "450": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9984,
+   "clustered": 0.998,
+   "entropy": 0.0197
+  },
+  "451": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9991,
+   "clustered": 0.9986,
+   "entropy": 0.0126
+  },
+  "452": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.8393,
+   "clustered": 0.7948,
+   "entropy": 0.7429
+  },
+  "453": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.8174,
+   "clustered": 0.8273,
+   "entropy": 0.7359
+  },
+  "454": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9918,
+   "clustered": 0.9895,
+   "entropy": 0.0819
+  },
+  "455": {
+   "n": 4279,
+   "n_clustered": 2943,
+   "pooled": 0.8406,
+   "clustered": 0.8253,
+   "entropy": 0.9473
+  },
+  "456": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9771,
+   "clustered": 0.9691,
+   "entropy": 0.2341
+  },
+  "457": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9946,
+   "clustered": 0.9922,
+   "entropy": 0.0637
+  },
+  "458": {
+   "n": 4271,
+   "n_clustered": 2936,
+   "pooled": 0.989,
+   "clustered": 0.9847,
+   "entropy": 0.1212
+  },
+  "459": {
+   "n": 4266,
+   "n_clustered": 2934,
+   "pooled": 0.9712,
+   "clustered": 0.9676,
+   "entropy": 0.2841
+  },
+  "460": {
+   "n": 4025,
+   "n_clustered": 2762,
+   "pooled": 0.5302,
+   "clustered": 0.5398,
+   "entropy": 2.7001
+  },
+  "461": {
+   "n": 4118,
+   "n_clustered": 2819,
+   "pooled": 0.3154,
+   "clustered": 0.326,
+   "entropy": 3.0579
+  },
+  "462": {
+   "n": 4256,
+   "n_clustered": 2923,
+   "pooled": 0.4831,
+   "clustered": 0.505,
+   "entropy": 2.3785
+  },
+  "463": {
+   "n": 4240,
+   "n_clustered": 2929,
+   "pooled": 0.5868,
+   "clustered": 0.5579,
+   "entropy": 2.1464
+  },
+  "464": {
+   "n": 4194,
+   "n_clustered": 2886,
+   "pooled": 0.269,
+   "clustered": 0.2446,
+   "entropy": 3.1524
+  },
+  "465": {
+   "n": 4267,
+   "n_clustered": 2932,
+   "pooled": 0.5074,
+   "clustered": 0.4864,
+   "entropy": 2.0998
+  },
+  "466": {
+   "n": 4232,
+   "n_clustered": 2908,
+   "pooled": 0.9792,
+   "clustered": 0.9715,
+   "entropy": 0.2094
+  },
+  "467": {
+   "n": 4226,
+   "n_clustered": 2901,
+   "pooled": 0.6051,
+   "clustered": 0.6505,
+   "entropy": 1.2583
+  },
+  "468": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9867,
+   "clustered": 0.9834,
+   "entropy": 0.1243
+  },
+  "469": {
+   "n": 4281,
+   "n_clustered": 2947,
+   "pooled": 0.9951,
+   "clustered": 0.9932,
+   "entropy": 0.0557
+  },
+  "470": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9965,
+   "clustered": 0.9963,
+   "entropy": 0.0391
+  },
+  "471": {
+   "n": 4279,
+   "n_clustered": 2944,
+   "pooled": 0.8481,
+   "clustered": 0.8281,
+   "entropy": 0.9947
+  },
+  "472": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9979,
+   "clustered": 0.9969,
+   "entropy": 0.0248
+  },
+  "473": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9981,
+   "clustered": 0.998,
+   "entropy": 0.023
+  },
+  "474": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.6846,
+   "clustered": 0.6522,
+   "entropy": 0.9977
+  },
+  "475": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9227,
+   "clustered": 0.8975,
+   "entropy": 0.4227
+  },
+  "476": {
+   "n": 4280,
+   "n_clustered": 2945,
+   "pooled": 0.6818,
+   "clustered": 0.6506,
+   "entropy": 0.9754
+  },
+  "477": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9316,
+   "clustered": 0.9359,
+   "entropy": 0.4097
+  },
+  "478": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9902,
+   "clustered": 0.9871,
+   "entropy": 0.098
+  },
+  "479": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9984,
+   "clustered": 0.9976,
+   "entropy": 0.0199
+  },
+  "480": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.9946,
+   "clustered": 0.9932,
+   "entropy": 0.0572
+  },
+  "481": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.9524,
+   "clustered": 0.9386,
+   "entropy": 0.3197
+  },
+  "482": {
+   "n": 4282,
+   "n_clustered": 2946,
+   "pooled": 0.9942,
+   "clustered": 0.9925,
+   "entropy": 0.0638
+  },
+  "483": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9995,
+   "clustered": 0.9993,
+   "entropy": 0.0063
+  },
+  "484": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9888,
+   "clustered": 0.9864,
+   "entropy": 0.1049
+  },
+  "485": {
+   "n": 4281,
+   "n_clustered": 2945,
+   "pooled": 0.9806,
+   "clustered": 0.9759,
+   "entropy": 0.17
+  },
+  "486": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9986,
+   "clustered": 0.998,
+   "entropy": 0.018
+  },
+  "487": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9974,
+   "clustered": 0.9973,
+   "entropy": 0.0319
+  },
+  "488": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9848,
+   "clustered": 0.9783,
+   "entropy": 0.1255
+  },
+  "489": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9806,
+   "clustered": 0.9763,
+   "entropy": 0.149
+  },
+  "490": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.5234,
+   "clustered": 0.4684,
+   "entropy": 1.7574
+  },
+  "491": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.94,
+   "clustered": 0.9301,
+   "entropy": 0.399
+  },
+  "492": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.7336,
+   "clustered": 0.7122,
+   "entropy": 1.1213
+  },
+  "493": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9967,
+   "clustered": 0.9956,
+   "entropy": 0.0368
+  },
+  "494": {
+   "n": 4281,
+   "n_clustered": 2948,
+   "pooled": 0.9547,
+   "clustered": 0.9481,
+   "entropy": 0.3093
+  },
+  "495": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9939,
+   "clustered": 0.9912,
+   "entropy": 0.0647
+  },
+  "496": {
+   "n": 4280,
+   "n_clustered": 2944,
+   "pooled": 0.6105,
+   "clustered": 0.5713,
+   "entropy": 1.2621
+  },
+  "497": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9967,
+   "clustered": 0.9966,
+   "entropy": 0.0359
+  },
+  "498": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9991,
+   "clustered": 0.9986,
+   "entropy": 0.0121
+  },
+  "499": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9692,
+   "clustered": 0.96,
+   "entropy": 0.2639
+  },
+  "500": {
+   "n": 4271,
+   "n_clustered": 2937,
+   "pooled": 0.5462,
+   "clustered": 0.5073,
+   "entropy": 2.098
+  },
+  "501": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.9827,
+   "clustered": 0.9803,
+   "entropy": 0.162
+  },
+  "502": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.8375,
+   "clustered": 0.8358,
+   "entropy": 0.7326
+  },
+  "503": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9967,
+   "clustered": 0.9956,
+   "entropy": 0.0395
+  },
+  "504": {
+   "n": 4281,
+   "n_clustered": 2946,
+   "pooled": 0.9542,
+   "clustered": 0.9498,
+   "entropy": 0.3761
+  },
+  "505": {
+   "n": 4283,
+   "n_clustered": 2947,
+   "pooled": 0.986,
+   "clustered": 0.982,
+   "entropy": 0.1366
+  },
+  "506": {
+   "n": 4282,
+   "n_clustered": 2948,
+   "pooled": 0.9923,
+   "clustered": 0.9898,
+   "entropy": 0.0804
+  },
+  "507": {
+   "n": 4282,
+   "n_clustered": 2947,
+   "pooled": 0.5135,
+   "clustered": 0.4459,
+   "entropy": 1.6448
+  },
+  "508": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9776,
+   "clustered": 0.9796,
+   "entropy": 0.1699
+  },
+  "509": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9491,
+   "clustered": 0.9386,
+   "entropy": 0.4016
+  },
+  "510": {
+   "n": 4283,
+   "n_clustered": 2948,
+   "pooled": 0.9731,
+   "clustered": 0.9712,
+   "entropy": 0.1952
+  },
+  "511": {
+   "n": 4284,
+   "n_clustered": 2948,
+   "pooled": 0.9953,
+   "clustered": 0.9936,
+   "entropy": 0.0538
+  }
+ }
+}

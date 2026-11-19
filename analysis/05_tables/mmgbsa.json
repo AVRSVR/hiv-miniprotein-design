@@ -1,0 +1,74 @@
+[
+  {
+    "design": "Chai1_Best",
+    "n_frames": 150,
+    "dG_bind_kJ_mol": -229.4,
+    "sem_kJ_mol": 2.8,
+    "sd_kJ_mol": 34.8,
+    "dG_bind_kcal_mol": -54.8,
+    "sem_kcal_mol": 0.7
+  },
+  {
+    "design": "Cyclic_Ring",
+    "n_frames": 150,
+    "dG_bind_kJ_mol": -217.1,
+    "sem_kJ_mol": 2.7,
+    "sd_kJ_mol": 33.0,
+    "dG_bind_kcal_mol": -51.9,
+    "sem_kcal_mol": 0.6
+  },
+  {
+    "design": "Latest_Best",
+    "n_frames": 150,
+    "dG_bind_kJ_mol": -303.7,
+    "sem_kJ_mol": 2.8,
+    "sd_kJ_mol": 33.9,
+    "dG_bind_kcal_mol": -72.6,
+    "sem_kcal_mol": 0.7
+  },
+  {
+    "design": "Latest_Best_rep2",
+    "n_frames": 113,
+    "dG_bind_kJ_mol": -316.4,
+    "sem_kJ_mol": 2.9,
+    "sd_kJ_mol": 30.7,
+    "dG_bind_kcal_mol": -75.6,
+    "sem_kcal_mol": 0.7
+  },
+  {
+    "design": "Latest_Best_rep3",
+    "n_frames": 113,
+    "dG_bind_kJ_mol": -329.1,
+    "sem_kJ_mol": 3.4,
+    "sd_kJ_mol": 36.1,
+    "dG_bind_kcal_mol": -78.7,
+    "sem_kcal_mol": 0.8
+  },
+  {
+    "design": "S310",
+    "n_frames": 150,
+    "dG_bind_kJ_mol": -468.0,
+    "sem_kJ_mol": 3.2,
+    "sd_kJ_mol": 38.9,
+    "dG_bind_kcal_mol": -111.8,
+    "sem_kcal_mol": 0.8
+  },
+  {
+    "design": "docked_complex",
+    "n_frames": 82,
+    "dG_bind_kJ_mol": -199.8,
+    "sem_kJ_mol": 2.7,
+    "sd_kJ_mol": 24.8,
+    "dG_bind_kcal_mol": -47.8,
+    "sem_kcal_mol": 0.7
+  },
+  {
+    "design": "model_4_chai",
+    "n_frames": 150,
+    "dG_bind_kJ_mol": -324.7,
+    "sem_kJ_mol": 3.1,
+    "sd_kJ_mol": 37.5,
+    "dG_bind_kcal_mol": -77.6,
+    "sem_kcal_mol": 0.7
+  }
+]

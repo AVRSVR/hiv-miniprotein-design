@@ -1,0 +1,11 @@
+Design,Sim length (ns),iRMSD mean (A),iRMSD final-half mean (A),iRMSD max (A),Binder fold RMSD (A),Contacts mean,Contacts retained (%),Min dist mean (A),Bound at end,MM/GBSA dG (kcal/mol),MM/GBSA SEM
+D2 (de novo bispecific),2.0,4.42,4.7,5.85,2.31,164,148.7,2.66,yes,-54.8,0.7
+Chai1_Best_rep2,1.5,2.8,2.71,3.95,1.83,152,115.3,2.75,yes,,
+D3 (CD4-mimetic cyclic),2.0,12.03,12.36,14.83,4.91,151,198.0,2.73,yes,-51.9,0.6
+"D5 (de novo, coreceptor site)",2.0,3.37,3.75,5.01,1.35,199,101.1,2.66,yes,-72.6,0.7
+Latest_Best_rep2,1.5,3.84,4.08,5.47,2.19,198,117.7,2.7,yes,-75.6,0.7
+Latest_Best_rep3,1.5,4.28,4.93,6.53,1.58,247,159.9,2.66,yes,-78.7,0.8
+D1 (CD4-mimetic control),2.0,3.52,4.25,5.86,1.78,326,106.9,2.63,yes,-111.8,0.8
+S310_rep2,1.5,2.35,2.61,3.64,1.11,391,116.8,2.62,yes,,
+S310_rep3,1.0,1.77,1.91,2.94,1.18,337,80.3,2.62,yes,,
+D2' (alternative pose),2.0,6.08,6.46,7.97,2.5,243,166.0,2.68,yes,-77.6,0.7

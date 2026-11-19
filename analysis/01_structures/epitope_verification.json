@@ -1,0 +1,56 @@
+[
+  {
+    "design": "Cyclic_Ring",
+    "cd4bs_residues_found": 9,
+    "binder_COM_to_CD4bs_centroid_A": 9.7,
+    "min_binder_to_hotspot_A": 3.7,
+    "hotspots_within_8A": 4,
+    "n_hotspots_checked": 9,
+    "verdict": "CD4bs-engaged"
+  },
+  {
+    "design": "S310",
+    "cd4bs_residues_found": 9,
+    "binder_COM_to_CD4bs_centroid_A": 15.8,
+    "min_binder_to_hotspot_A": 3.5,
+    "hotspots_within_8A": 9,
+    "n_hotspots_checked": 9,
+    "verdict": "CD4bs-engaged"
+  },
+  {
+    "design": "model_4_chai",
+    "cd4bs_residues_found": 9,
+    "binder_COM_to_CD4bs_centroid_A": 28.8,
+    "min_binder_to_hotspot_A": 7.3,
+    "hotspots_within_8A": 2,
+    "n_hotspots_checked": 9,
+    "verdict": "peripheral"
+  },
+  {
+    "design": "Latest_Best",
+    "cd4bs_residues_found": 9,
+    "binder_COM_to_CD4bs_centroid_A": 34.4,
+    "min_binder_to_hotspot_A": 18.4,
+    "hotspots_within_8A": 0,
+    "n_hotspots_checked": 9,
+    "verdict": "off-site"
+  },
+  {
+    "design": "Chai1_Best",
+    "cd4bs_residues_found": 9,
+    "binder_COM_to_CD4bs_centroid_A": 37.1,
+    "min_binder_to_hotspot_A": 20.9,
+    "hotspots_within_8A": 0,
+    "n_hotspots_checked": 9,
+    "verdict": "off-site"
+  },
+  {
+    "design": "docked_complex",
+    "cd4bs_residues_found": 7,
+    "binder_COM_to_CD4bs_centroid_A": 38.5,
+    "min_binder_to_hotspot_A": 5.9,
+    "hotspots_within_8A": 1,
+    "n_hotspots_checked": 7,
+    "verdict": "peripheral"
+  }
+]

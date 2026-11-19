@@ -1,0 +1,4 @@
+Design,gp120 contacts scored,Load-bearing (>=1 kcal/mol),Escape-resistant (>=95% cons.),On variable positions (<80% cons.),Escape-resistant fraction (%),Highest-risk contacts
+D1 (CD4-mimetic control),35,19,5,7,26.3,"Q130 (68% cons.), N188 (40% cons.), I184 (62% cons.)"
+D2 (de novo bispecific),16,10,2,7,20.0,"V442 (27% cons.), R444 (36% cons.), T297 (81% cons.)"
+"D5 (de novo, coreceptor site)",25,17,2,10,11.8,"R444 (36% cons.), K305 (68% cons.), Q440 (23% cons.)"

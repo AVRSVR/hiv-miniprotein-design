@@ -1,0 +1,66 @@
+{
+  "reference": "5U7O, BG505 SOSIP.664 with temsavir (BMS-626529) bound",
+  "ligand": "83J",
+  "fit_to_6V8X_A": 1.27,
+  "common_CA": 429,
+  "pocket_residues": [
+    "Ile108",
+    "Ile109",
+    "Trp112",
+    "Asp113",
+    "Leu116",
+    "Lys117",
+    "Thr202",
+    "Leu255",
+    "Ser256",
+    "Glu370",
+    "Ser375",
+    "Phe376",
+    "Phe382",
+    "Tyr384",
+    "Ile424",
+    "Asn425",
+    "Met426",
+    "Trp427",
+    "Gln428",
+    "Arg429",
+    "Gln432",
+    "Ala433",
+    "Met434",
+    "Met475"
+  ],
+  "designs": {
+    "D5": {
+      "footprint_residues": 30,
+      "min_dist_to_temsavir_A": 13.62,
+      "clashes_with_temsavir_3A": 0,
+      "pocket_residues_shared": [],
+      "pocket_overlap_pct": 0.0
+    },
+    "D2": {
+      "footprint_residues": 22,
+      "min_dist_to_temsavir_A": 18.31,
+      "clashes_with_temsavir_3A": 0,
+      "pocket_residues_shared": [],
+      "pocket_overlap_pct": 0.0
+    },
+    "D2p": {
+      "footprint_residues": 24,
+      "min_dist_to_temsavir_A": 13.11,
+      "clashes_with_temsavir_3A": 0,
+      "pocket_residues_shared": [],
+      "pocket_overlap_pct": 0.0
+    },
+    "D3": {
+      "footprint_residues": 25,
+      "min_dist_to_temsavir_A": 6.83,
+      "clashes_with_temsavir_3A": 0,
+      "pocket_residues_shared": [
+        "Trp427",
+        "Gln428",
+        "Met475"
+      ],
+      "pocket_overlap_pct": 12.5
+    }
+  }
+}

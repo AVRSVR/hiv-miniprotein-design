@@ -1,0 +1,8 @@
+Footprint,Footprint res,Sequon Asn in footprint,Nearest sequon,Distance (A),Sequons <10 A,Sequons <15 A,Sequons <15 A (list)
+"CD4 (experimental, binds glycosylated gp120)",30,none,N197,2.69,5,10,"N197, N234, N262, N276, N339, N356, N386, N392, N448, N463"
+"17b Fab (experimental, binds glycosylated gp120)",15,none,N386,5.78,2,4,"N197, N295, N332, N386"
+D1 (CD4-mimetic control),33,none,N463,2.87,5,10,"N197, N234, N262, N276, N339, N356, N386, N392, N448, N463"
+D2 (de novo bispecific),16,"N295, N332",N295,0.0,6,7,"N262, N295, N332, N339, N386, N392, N448"
+D3 (CD4-mimetic cyclic),28,none,N276,1.33,6,12,"N230, N234, N241, N262, N276, N289, N339, N356, N386, N392, N448, N463"
+D2' (alternative pose),16,N392,N392,0.0,4,11,"N262, N276, N289, N295, N332, N339, N356, N386, N392, N448, N463"
+"D5 (de novo, coreceptor site)",30,N295,N295,0.0,5,7,"N197, N262, N295, N332, N339, N386, N448"

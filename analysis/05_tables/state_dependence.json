@@ -1,0 +1,109 @@
+{
+  "closed_state": "6V8X chain A, VRC01-bound BG505 F14 SOSIP",
+  "open_state": "6CM3 chain D, BG505 SOSIP with sCD4, 17b and 8ANC195",
+  "same_isolate": true,
+  "whole_protomer_fit_A": 5.58,
+  "common_CA": 363,
+  "cd4_chain": "G",
+  "fab_chains": [
+    "K",
+    "J"
+  ],
+  "caveat": "binders are rigid and are carried onto the open protomer by their own footprint fit, so their open-state numbers inherit that fit error; glycans are those resolved in each map",
+  "footprints": {
+    "D5": {
+      "footprint_residues": 30,
+      "resolved_in_both_states": 19,
+      "unresolved_in_one_state": 11,
+      "core_fit_deviation_A": 3.78,
+      "local_fit_rmsd_A": 2.52,
+      "open_state": {
+        "placed_by": "footprint fit, 19 CA at 2.52 A",
+        "receptor_clashes_2.5A": 29,
+        "glycan_clashes_3A": 78,
+        "glycan_min_dist_A": 0.59,
+        "neighbour_clashes_3A": 0,
+        "neighbour_min_dist_A": 11.93,
+        "cd4_clashes_3A": 0,
+        "cd4_min_dist_A": 20.45,
+        "17b_clashes_3A": 49,
+        "17b_min_dist_A": 0.49,
+        "contacts_with_receptor_4.5A": 561
+      }
+    },
+    "D2": {
+      "footprint_residues": 22,
+      "resolved_in_both_states": 20,
+      "unresolved_in_one_state": 2,
+      "core_fit_deviation_A": 3.13,
+      "local_fit_rmsd_A": 1.97,
+      "open_state": {
+        "placed_by": "footprint fit, 20 CA at 1.97 A",
+        "receptor_clashes_2.5A": 26,
+        "glycan_clashes_3A": 44,
+        "glycan_min_dist_A": 0.53,
+        "neighbour_clashes_3A": 0,
+        "neighbour_min_dist_A": 14.96,
+        "cd4_clashes_3A": 0,
+        "cd4_min_dist_A": 22.78,
+        "17b_clashes_3A": 0,
+        "17b_min_dist_A": 13.81,
+        "contacts_with_receptor_4.5A": 445
+      }
+    },
+    "D2p": {
+      "footprint_residues": 24,
+      "resolved_in_both_states": 24,
+      "unresolved_in_one_state": 0,
+      "core_fit_deviation_A": 2.26,
+      "local_fit_rmsd_A": 1.01,
+      "open_state": {
+        "placed_by": "footprint fit, 24 CA at 1.01 A",
+        "receptor_clashes_2.5A": 9,
+        "glycan_clashes_3A": 63,
+        "glycan_min_dist_A": 0.11,
+        "neighbour_clashes_3A": 0,
+        "neighbour_min_dist_A": 39.12,
+        "cd4_clashes_3A": 11,
+        "cd4_min_dist_A": 1.26,
+        "17b_clashes_3A": 0,
+        "17b_min_dist_A": 3.25,
+        "contacts_with_receptor_4.5A": 280
+      }
+    },
+    "D3": {
+      "footprint_residues": 25,
+      "resolved_in_both_states": 25,
+      "unresolved_in_one_state": 0,
+      "core_fit_deviation_A": 2.65,
+      "local_fit_rmsd_A": 1.35,
+      "open_state": {
+        "placed_by": "footprint fit, 25 CA at 1.35 A",
+        "receptor_clashes_2.5A": 8,
+        "glycan_clashes_3A": 0,
+        "glycan_min_dist_A": 10.06,
+        "neighbour_clashes_3A": 0,
+        "neighbour_min_dist_A": 21.16,
+        "cd4_clashes_3A": 48,
+        "cd4_min_dist_A": 0.65,
+        "17b_clashes_3A": 0,
+        "17b_min_dist_A": 15.45,
+        "contacts_with_receptor_4.5A": 309
+      }
+    },
+    "CD4": {
+      "footprint_residues": 35,
+      "resolved_in_both_states": 35,
+      "unresolved_in_one_state": 0,
+      "core_fit_deviation_A": 9.78,
+      "local_fit_rmsd_A": 6.64
+    },
+    "17b": {
+      "footprint_residues": 17,
+      "resolved_in_both_states": 17,
+      "unresolved_in_one_state": 0,
+      "core_fit_deviation_A": 5.56,
+      "local_fit_rmsd_A": 4.9
+    }
+  }
+}

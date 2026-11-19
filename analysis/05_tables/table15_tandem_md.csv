@@ -1,0 +1,4 @@
+Component,Residues,Contacts (start),Contacts (final half),Retained (%),Min dist (A),iRMSD final-half (A),Fold RMSD (A),Bound at end
+Arm 1: D1 (CD4-mimetic control),97,224,209,93.3,2.67,2.36,1.26,yes
+Linker (22 x Gly),22,75,70,93.2,2.87,-,-,yes
+"Arm 2: D5 (de novo, coreceptor site)",66,160,166,103.7,2.18,3.22,1.48,yes

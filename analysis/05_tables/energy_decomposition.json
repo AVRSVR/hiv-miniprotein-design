@@ -1,0 +1,58 @@
+[
+  {
+    "system": "D1 (CD4-mimetic control)",
+    "dG_total_kcal": -114.3,
+    "dG_vdW_kcal": -175.9,
+    "dG_elec_solv_kcal": 61.6,
+    "elec_fraction": -0.539,
+    "n_frames": 34
+  },
+  {
+    "system": "D2 (de novo bispecific)",
+    "dG_total_kcal": -57.1,
+    "dG_vdW_kcal": -93.7,
+    "dG_elec_solv_kcal": 36.5,
+    "elec_fraction": -0.64,
+    "n_frames": 34
+  },
+  {
+    "system": "D3 (CD4-mimetic cyclic)",
+    "dG_total_kcal": -51.6,
+    "dG_vdW_kcal": -80.2,
+    "dG_elec_solv_kcal": 28.6,
+    "elec_fraction": -0.555,
+    "n_frames": 34
+  },
+  {
+    "system": "D2' (alternative pose)",
+    "dG_total_kcal": -78.2,
+    "dG_vdW_kcal": -115.7,
+    "dG_elec_solv_kcal": 37.5,
+    "elec_fraction": -0.48,
+    "n_frames": 34
+  },
+  {
+    "system": "D5 (de novo, coreceptor site)",
+    "dG_total_kcal": -73.6,
+    "dG_vdW_kcal": -129.2,
+    "dG_elec_solv_kcal": 55.6,
+    "elec_fraction": -0.755,
+    "n_frames": 34
+  },
+  {
+    "system": "CD4-gp120 (experimental)",
+    "dG_total_kcal": -70.8,
+    "dG_vdW_kcal": -132.2,
+    "dG_elec_solv_kcal": 61.4,
+    "elec_fraction": -0.868,
+    "n_frames": 1
+  },
+  {
+    "system": "b12-gp120 (experimental)",
+    "dG_total_kcal": -87.2,
+    "dG_vdW_kcal": -133.4,
+    "dG_elec_solv_kcal": 46.2,
+    "elec_fraction": -0.53,
+    "n_frames": 1
+  }
+]

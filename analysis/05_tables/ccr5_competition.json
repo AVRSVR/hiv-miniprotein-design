@@ -1,0 +1,245 @@
+{
+  "coreceptor_source": "6MEO, gp120-CD4-CCR5, cryo-EM 3.90 A",
+  "open_trimer": "6CM3 chain D, BG505 SOSIP with sCD4, 17b and 8ANC195",
+  "global_fit_A": 4.6,
+  "matched_pairs": 365,
+  "identical_in_matched_pairs": 296,
+  "global_fit_by_region": {
+    "inner domain and N terminus": {
+      "residues": 93,
+      "mean_deviation_A": 3.6
+    },
+    "V1V2": {
+      "residues": 11,
+      "mean_deviation_A": 4.18
+    },
+    "bridging sheet and stem": {
+      "residues": 54,
+      "mean_deviation_A": 1.45
+    },
+    "outer domain": {
+      "residues": 45,
+      "mean_deviation_A": 0.85
+    },
+    "V3": {
+      "residues": 14,
+      "mean_deviation_A": 1.55
+    },
+    "outer domain, second half": {
+      "residues": 52,
+      "mean_deviation_A": 0.98
+    },
+    "V4": {
+      "residues": 20,
+      "mean_deviation_A": 1.27
+    },
+    "beta20-23": {
+      "residues": 41,
+      "mean_deviation_A": 1.17
+    },
+    "V5 and C5": {
+      "residues": 31,
+      "mean_deviation_A": 1.3
+    }
+  },
+  "local_fit_shell_A": 10.0,
+  "local_fit_residues": 66,
+  "local_fit_A": 1.12,
+  "carry_validation": {
+    "note": "the CCR5-gp120 interface before and after the transfer; the carry is only usable if it reproduces the interface it came from",
+    "native_contacts_4.5A": 504,
+    "carried_contacts_4.5A": 235,
+    "native_clashes_3A": 15,
+    "carried_clashes_3A": 14
+  },
+  "ccr5_atoms": 2562,
+  "nterm_last_residue": 30,
+  "ccr5_footprint_on_gp120": [
+    "Leu122",
+    "Leu193",
+    "Ile194",
+    "Cys196",
+    "Asn197",
+    "Thr198",
+    "Cys205",
+    "Pro206",
+    "Lys207",
+    "Arg298",
+    "Pro299",
+    "Asn300",
+    "Ile323",
+    "Gly324",
+    "Ile326",
+    "Arg327",
+    "Ile420",
+    "Lys421",
+    "Gln422",
+    "Ile423",
+    "Gln432",
+    "Ala436",
+    "Pro437",
+    "Pro438",
+    "Ile439",
+    "Gln440",
+    "Gly441",
+    "Val442"
+  ],
+  "ccr5_residues_reaching_gp120": 13,
+  "sulfotyrosines_in_contact": [
+    "Tys10",
+    "Tys14"
+  ],
+  "caveat": "the coreceptor is carried by a cross-isolate gp120 fit and the designs by their own footprint fits, so every number inherits both; CCR5 and the designs are rigid",
+  "partners": {
+    "CD4": {
+      "footprint_residues": 35,
+      "ccr5_clashes_3A": 0,
+      "ccr5_severe_2.5A": 0,
+      "ccr5_min_dist_A": 4.32,
+      "contacts_with_ccr5_4.5A": 1,
+      "nterm_clashes_3A": 0,
+      "nterm_min_dist_A": 4.32,
+      "body_clashes_3A": 0,
+      "body_min_dist_A": 31.57,
+      "shared_footprint_residues": 2,
+      "pct_of_ccr5_footprint_covered": 7.1,
+      "shared": [
+        "Ile194",
+        "Cys196"
+      ],
+      "note": "negative control: CD4 and CCR5 are bound to the same gp120 in 6MEO, so this must not clash"
+    },
+    "17b": {
+      "footprint_residues": 17,
+      "ccr5_clashes_3A": 357,
+      "ccr5_severe_2.5A": 283,
+      "ccr5_min_dist_A": 0.34,
+      "contacts_with_ccr5_4.5A": 4679,
+      "nterm_clashes_3A": 248,
+      "nterm_min_dist_A": 0.34,
+      "body_clashes_3A": 120,
+      "body_min_dist_A": 0.37,
+      "shared_footprint_residues": 9,
+      "pct_of_ccr5_footprint_covered": 32.1,
+      "shared": [
+        "Leu122",
+        "Cys205",
+        "Ile326",
+        "Arg327",
+        "Ile420",
+        "Lys421",
+        "Gln422",
+        "Ile423",
+        "Pro437"
+      ],
+      "note": "positive control: 17b blocks coreceptor engagement, so this must clash"
+    },
+    "D5": {
+      "footprint_residues": 27,
+      "ccr5_clashes_3A": 47,
+      "ccr5_severe_2.5A": 32,
+      "ccr5_min_dist_A": 0.93,
+      "contacts_with_ccr5_4.5A": 503,
+      "nterm_clashes_3A": 20,
+      "nterm_min_dist_A": 0.93,
+      "body_clashes_3A": 27,
+      "body_min_dist_A": 1.02,
+      "shared_footprint_residues": 8,
+      "pct_of_ccr5_footprint_covered": 28.6,
+      "shared": [
+        "Cys205",
+        "Pro206",
+        "Lys207",
+        "Asn300",
+        "Ile439",
+        "Gln440",
+        "Gly441",
+        "Val442"
+      ],
+      "placed_by": "own footprint fit, 19 CA at 2.52 A"
+    },
+    "D2": {
+      "footprint_residues": 23,
+      "ccr5_clashes_3A": 3,
+      "ccr5_severe_2.5A": 1,
+      "ccr5_min_dist_A": 1.97,
+      "contacts_with_ccr5_4.5A": 28,
+      "nterm_clashes_3A": 0,
+      "nterm_min_dist_A": 3.8,
+      "body_clashes_3A": 3,
+      "body_min_dist_A": 1.97,
+      "shared_footprint_residues": 8,
+      "pct_of_ccr5_footprint_covered": 28.6,
+      "shared": [
+        "Arg298",
+        "Pro299",
+        "Asn300",
+        "Ile323",
+        "Gly324",
+        "Gln440",
+        "Gly441",
+        "Val442"
+      ],
+      "placed_by": "own footprint fit, 20 CA at 1.97 A"
+    },
+    "D2p": {
+      "footprint_residues": 20,
+      "ccr5_clashes_3A": 0,
+      "ccr5_severe_2.5A": 0,
+      "ccr5_min_dist_A": 10.69,
+      "contacts_with_ccr5_4.5A": 0,
+      "nterm_clashes_3A": 0,
+      "nterm_min_dist_A": 10.69,
+      "body_clashes_3A": 0,
+      "body_min_dist_A": 19.58,
+      "shared_footprint_residues": 0,
+      "pct_of_ccr5_footprint_covered": 0.0,
+      "shared": [],
+      "placed_by": "own footprint fit, 24 CA at 1.01 A"
+    },
+    "D3": {
+      "footprint_residues": 28,
+      "ccr5_clashes_3A": 0,
+      "ccr5_severe_2.5A": 0,
+      "ccr5_min_dist_A": 12.36,
+      "contacts_with_ccr5_4.5A": 0,
+      "nterm_clashes_3A": 0,
+      "nterm_min_dist_A": 12.36,
+      "body_clashes_3A": 0,
+      "body_min_dist_A": 38.42,
+      "shared_footprint_residues": 0,
+      "pct_of_ccr5_footprint_covered": 0.0,
+      "shared": [],
+      "placed_by": "own footprint fit, 25 CA at 1.35 A"
+    }
+  },
+  "hotspot_overlap": {
+    "D5": {
+      "load_bearing_contacts": 17,
+      "also_contacted_by_ccr5": 3,
+      "pct_of_hotspot_energy_on_ccr5_contacts": 11.6,
+      "positions": [
+        "Lys207",
+        "Gln440",
+        "Val442"
+      ]
+    },
+    "D2": {
+      "load_bearing_contacts": 10,
+      "also_contacted_by_ccr5": 2,
+      "pct_of_hotspot_energy_on_ccr5_contacts": 14.0,
+      "positions": [
+        "Arg327",
+        "Val442"
+      ]
+    },
+    "D1": {
+      "load_bearing_contacts": 19,
+      "also_contacted_by_ccr5": 1,
+      "pct_of_hotspot_energy_on_ccr5_contacts": 3.7,
+      "positions": [
+        "Leu193"
+      ]
+    }
+  }
+}

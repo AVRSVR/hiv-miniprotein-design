@@ -1,0 +1,218 @@
+{
+  "footprint_cutoff_A": 5.0,
+  "reach_A": [
+    10.0,
+    15.0
+  ],
+  "sequons": [
+    "N197",
+    "N230",
+    "N234",
+    "N241",
+    "N262",
+    "N276",
+    "N289",
+    "N295",
+    "N332",
+    "N339",
+    "N356",
+    "N386",
+    "N392",
+    "N448",
+    "N463"
+  ],
+  "per_footprint": [
+    {
+      "label": "CD4 (experimental, binds glycosylated gp120)",
+      "footprint_res": 30,
+      "sequon_asn_in_footprint": [],
+      "nearest_sequon": "N197",
+      "nearest_sequon_dist_A": 2.69,
+      "sequons_within_10A": 5,
+      "sequons_within_10A_list": [
+        "N197",
+        "N276",
+        "N386",
+        "N392",
+        "N463"
+      ],
+      "sequons_within_15A": 10,
+      "sequons_within_15A_list": [
+        "N197",
+        "N234",
+        "N262",
+        "N276",
+        "N339",
+        "N356",
+        "N386",
+        "N392",
+        "N448",
+        "N463"
+      ]
+    },
+    {
+      "label": "17b Fab (experimental, binds glycosylated gp120)",
+      "footprint_res": 15,
+      "sequon_asn_in_footprint": [],
+      "nearest_sequon": "N386",
+      "nearest_sequon_dist_A": 5.78,
+      "sequons_within_10A": 2,
+      "sequons_within_10A_list": [
+        "N197",
+        "N386"
+      ],
+      "sequons_within_15A": 4,
+      "sequons_within_15A_list": [
+        "N197",
+        "N295",
+        "N332",
+        "N386"
+      ]
+    },
+    {
+      "label": "D1 (CD4-mimetic control)",
+      "footprint_res": 33,
+      "sequon_asn_in_footprint": [],
+      "nearest_sequon": "N463",
+      "nearest_sequon_dist_A": 2.87,
+      "sequons_within_10A": 5,
+      "sequons_within_10A_list": [
+        "N197",
+        "N276",
+        "N386",
+        "N392",
+        "N463"
+      ],
+      "sequons_within_15A": 10,
+      "sequons_within_15A_list": [
+        "N197",
+        "N234",
+        "N262",
+        "N276",
+        "N339",
+        "N356",
+        "N386",
+        "N392",
+        "N448",
+        "N463"
+      ]
+    },
+    {
+      "label": "D2 (de novo bispecific)",
+      "footprint_res": 16,
+      "sequon_asn_in_footprint": [
+        "N295",
+        "N332"
+      ],
+      "nearest_sequon": "N295",
+      "nearest_sequon_dist_A": 0.0,
+      "sequons_within_10A": 6,
+      "sequons_within_10A_list": [
+        "N262",
+        "N295",
+        "N332",
+        "N339",
+        "N386",
+        "N448"
+      ],
+      "sequons_within_15A": 7,
+      "sequons_within_15A_list": [
+        "N262",
+        "N295",
+        "N332",
+        "N339",
+        "N386",
+        "N392",
+        "N448"
+      ]
+    },
+    {
+      "label": "D3 (CD4-mimetic cyclic)",
+      "footprint_res": 28,
+      "sequon_asn_in_footprint": [],
+      "nearest_sequon": "N276",
+      "nearest_sequon_dist_A": 1.33,
+      "sequons_within_10A": 6,
+      "sequons_within_10A_list": [
+        "N230",
+        "N234",
+        "N276",
+        "N289",
+        "N392",
+        "N463"
+      ],
+      "sequons_within_15A": 12,
+      "sequons_within_15A_list": [
+        "N230",
+        "N234",
+        "N241",
+        "N262",
+        "N276",
+        "N289",
+        "N339",
+        "N356",
+        "N386",
+        "N392",
+        "N448",
+        "N463"
+      ]
+    },
+    {
+      "label": "D2' (alternative pose)",
+      "footprint_res": 16,
+      "sequon_asn_in_footprint": [
+        "N392"
+      ],
+      "nearest_sequon": "N392",
+      "nearest_sequon_dist_A": 0.0,
+      "sequons_within_10A": 4,
+      "sequons_within_10A_list": [
+        "N339",
+        "N386",
+        "N392",
+        "N463"
+      ],
+      "sequons_within_15A": 11,
+      "sequons_within_15A_list": [
+        "N262",
+        "N276",
+        "N289",
+        "N295",
+        "N332",
+        "N339",
+        "N356",
+        "N386",
+        "N392",
+        "N448",
+        "N463"
+      ]
+    },
+    {
+      "label": "D5 (de novo, coreceptor site)",
+      "footprint_res": 30,
+      "sequon_asn_in_footprint": [
+        "N295"
+      ],
+      "nearest_sequon": "N295",
+      "nearest_sequon_dist_A": 0.0,
+      "sequons_within_10A": 5,
+      "sequons_within_10A_list": [
+        "N262",
+        "N295",
+        "N332",
+        "N386",
+        "N448"
+      ],
+      "sequons_within_15A": 7,
+      "sequons_within_15A_list": [
+        "N197",
+        "N262",
+        "N295",
+        "N332",
+        "N339",
+        "N386",
+        "N448"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "interface": "gp120 / CD4 D1D2 (1GC1, experimental)",
+    "n_contacts": 332,
+    "n_hbonds": 18,
+    "n_saltbridges": 5,
+    "dSASA_A2": 1912.5,
+    "n_iface_res_gp120": 28,
+    "n_iface_res_partner": 24,
+    "type": "experimental"
+  },
+  {
+    "interface": "gp120 / 17b Fab (1GC1, experimental)",
+    "n_contacts": 153,
+    "n_hbonds": 10,
+    "n_saltbridges": 4,
+    "dSASA_A2": 1138.6,
+    "n_iface_res_gp120": 14,
+    "n_iface_res_partner": 13,
+    "type": "experimental"
+  },
+  {
+    "interface": "gp120 / b12 Fab (2NY7, experimental)",
+    "n_contacts": 326,
+    "n_hbonds": 17,
+    "n_saltbridges": 0,
+    "dSASA_A2": 1866.6,
+    "n_iface_res_gp120": 28,
+    "n_iface_res_partner": 16,
+    "type": "experimental"
+  },
+  {
+    "interface": "D2 (de novo bispecific)",
+    "type": "designed",
+    "n_contacts": 340,
+    "n_hbonds": 25,
+    "n_saltbridges": 4,
+    "dSASA_A2": 1756.1,
+    "n_iface_res_gp120": 20,
+    "n_iface_res_partner": 20
+  },
+  {
+    "interface": "D5 (de novo, coreceptor site)",
+    "type": "designed",
+    "n_contacts": 435,
+    "n_hbonds": 22,
+    "n_saltbridges": 1,
+    "dSASA_A2": 2220.2,
+    "n_iface_res_gp120": 24,
+    "n_iface_res_partner": 22
+  },
+  {
+    "interface": "D3 (CD4-mimetic cyclic)",
+    "type": "designed",
+    "n_contacts": 293,
+    "n_hbonds": 24,
+    "n_saltbridges": 0,
+    "dSASA_A2": 1254.0,
+    "n_iface_res_gp120": 22,
+    "n_iface_res_partner": 11
+  },
+  {
+    "interface": "D1 (CD4-mimetic control)",
+    "type": "designed",
+    "n_contacts": 391,
+    "n_hbonds": 23,
+    "n_saltbridges": 6,
+    "dSASA_A2": 2589.0,
+    "n_iface_res_gp120": 37,
+    "n_iface_res_partner": 27
+  },
+  {
+    "interface": "D4 (de novo)",
+    "type": "designed",
+    "n_contacts": 289,
+    "n_hbonds": 21,
+    "n_saltbridges": 0,
+    "dSASA_A2": 1413.4,
+    "n_iface_res_gp120": 19,
+    "n_iface_res_partner": 15
+  }
+]

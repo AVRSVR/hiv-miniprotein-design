@@ -1,0 +1,81 @@
+{
+  "design": "Cyclic_Ring",
+  "label": "D3",
+  "n_frames": 10,
+  "wt_dG_kJ_mol": -205.9,
+  "n_hotspots": 7,
+  "residues": [
+    {
+      "resname": "LEU",
+      "resid": 6,
+      "ddG_kJ_mol": 19.13,
+      "ddG_kcal_mol": 4.57,
+      "sem_kcal_mol": 0.22,
+      "hotspot": true
+    },
+    {
+      "resname": "CYS",
+      "resid": 13,
+      "ddG_kJ_mol": 10.69,
+      "ddG_kcal_mol": 2.56,
+      "sem_kcal_mol": 0.37,
+      "hotspot": true
+    },
+    {
+      "resname": "PHE",
+      "resid": 5,
+      "ddG_kJ_mol": 9.33,
+      "ddG_kcal_mol": 2.23,
+      "sem_kcal_mol": 0.28,
+      "hotspot": true
+    },
+    {
+      "resname": "GLN",
+      "resid": 2,
+      "ddG_kJ_mol": 8.76,
+      "ddG_kcal_mol": 2.09,
+      "sem_kcal_mol": 0.75,
+      "hotspot": true
+    },
+    {
+      "resname": "THR",
+      "resid": 7,
+      "ddG_kJ_mol": 7.96,
+      "ddG_kcal_mol": 1.9,
+      "sem_kcal_mol": 0.58,
+      "hotspot": true
+    },
+    {
+      "resname": "SER",
+      "resid": 4,
+      "ddG_kJ_mol": 6.6,
+      "ddG_kcal_mol": 1.58,
+      "sem_kcal_mol": 0.41,
+      "hotspot": true
+    },
+    {
+      "resname": "SER",
+      "resid": 11,
+      "ddG_kJ_mol": 5.37,
+      "ddG_kcal_mol": 1.28,
+      "sem_kcal_mol": 0.23,
+      "hotspot": true
+    },
+    {
+      "resname": "LYS",
+      "resid": 8,
+      "ddG_kJ_mol": 3.23,
+      "ddG_kcal_mol": 0.77,
+      "sem_kcal_mol": 0.35,
+      "hotspot": false
+    },
+    {
+      "resname": "CYS",
+      "resid": 1,
+      "ddG_kJ_mol": -3.16,
+      "ddG_kcal_mol": -0.76,
+      "sem_kcal_mol": 0.26,
+      "hotspot": false
+    }
+  ]
+}

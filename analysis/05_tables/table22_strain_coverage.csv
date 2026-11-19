@@ -1,0 +1,7 @@
+Interface,Positions,Median retained (%),Mean retained (%),Strains ≥ 90% (%),Strains ≥ 75% (%),Strains ≥ 50% (%),Positions where target is not modal,Weight in V1V2/V3/V4/V5 (%)
+D1 hotspots (ΔΔG weighted),19,57.0,56.7,0.1,0.5,83.5,6,46.7
+D5 hotspots (ΔΔG weighted),17,61.0,60.5,0.8,14.7,78.7,4,62.9
+D2 hotspots (ΔΔG weighted),10,65.6,62.3,0.1,30.8,70.1,3,42.1
+CD4 epitope (equal weights),35,82.9,83.5,7.3,95.1,99.9,4,17.1
+17b epitope (equal weights),17,88.2,88.6,30.3,98.1,99.9,1,11.8
+CCR5 footprint (equal weights),28,89.3,87.0,12.2,98.6,100.0,3,35.7

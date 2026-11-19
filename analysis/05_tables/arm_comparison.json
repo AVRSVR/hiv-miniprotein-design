@@ -1,0 +1,108 @@
+{
+  "af2_metrics": [
+    {
+      "metric": "plddt",
+      "better": "higher",
+      "rosetta": {
+        "n": 40,
+        "mean": 79.02,
+        "sd": 12.97,
+        "median": 82.92,
+        "min": 51.69,
+        "max": 94.12
+      },
+      "rfdiffusion": {
+        "n": 544,
+        "mean": 48.01,
+        "sd": 8.22,
+        "median": 47.0,
+        "min": 29.9,
+        "max": 81.9
+      },
+      "mannwhitney_U": 21097.0,
+      "p_value": 3.424152901751806e-23,
+      "rank_biserial": 0.939,
+      "significant_p<0.001": true
+    },
+    {
+      "metric": "pae",
+      "better": "lower",
+      "rosetta": {
+        "n": 40,
+        "mean": 7.11,
+        "sd": 3.54,
+        "median": 6.17,
+        "min": 3.16,
+        "max": 14.54
+      },
+      "rfdiffusion": {
+        "n": 544,
+        "mean": 27.77,
+        "sd": 1.98,
+        "median": 28.09,
+        "min": 12.78,
+        "max": 30.04
+      },
+      "mannwhitney_U": 12.0,
+      "p_value": 5.000607127919611e-26,
+      "rank_biserial": -0.999,
+      "significant_p<0.001": true
+    },
+    {
+      "metric": "ptm",
+      "better": "higher",
+      "rosetta": {
+        "n": 40,
+        "mean": 0.68,
+        "sd": 0.14,
+        "median": 0.71,
+        "min": 0.39,
+        "max": 0.87
+      },
+      "rfdiffusion": {
+        "n": 544,
+        "mean": 0.16,
+        "sd": 0.07,
+        "median": 0.14,
+        "min": 0.09,
+        "max": 0.73
+      },
+      "mannwhitney_U": 21656.0,
+      "p_value": 1.279772135752193e-25,
+      "rank_biserial": 0.99,
+      "significant_p<0.001": true
+    }
+  ],
+  "high_confidence_rate_plddt80_pae5": {
+    "rosetta": {
+      "n": 40,
+      "n_pass": 16,
+      "pct": 40.0
+    },
+    "rfdiffusion": {
+      "n": 544,
+      "n_pass": 0,
+      "pct": 0.0
+    }
+  },
+  "blast_human_offtarget": {
+    "RFdiffusion": {
+      "PASS": 480
+    },
+    "Rosetta": {
+      "PASS": 40
+    }
+  },
+  "mhc_i_immunogenicity": {
+    "n": 520,
+    "flag_counts": {
+      "PASS": 268,
+      "FLAGGED": 252
+    },
+    "best_ic50_nM": {
+      "median": 53.9,
+      "min": 12.5,
+      "n_strong_binders_lt50nM": 252
+    }
+  }
+}
