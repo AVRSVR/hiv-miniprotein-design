@@ -20,7 +20,7 @@ from PIL import Image
 FIG = r"C:\Users\anant\Desktop\hiv_miniprotein_design\paper_analysis\04_figures"
 D1, D2, D5, D4, D3 = "#0072B2", "#E69F00", "#009E73", "#D55E00", "#CC79A7"
 CD4F, ABF = "#99C2E0", "#F5CC8C"
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 11})
+plt.rcParams.update({"font.family": "Arial", "font.size": 11})
 
 
 def crop(name, pad=12):

@@ -3,7 +3,7 @@
 | D1 (CD4-mimetic control)              | designed     |                 391 |        23 |              6 |      2589   |                      37 |                        27 |
 | D5 (de novo, coreceptor site)         | designed     |                 435 |        22 |              1 |      2220.2 |                      24 |                        22 |
 | D2 (de novo bispecific)               | designed     |                 340 |        25 |              4 |      1756.1 |                      20 |                        20 |
-| D4 (de novo)                          | designed     |                 289 |        21 |              0 |      1413.4 |                      19 |                        15 |
+| D2' (alternative pose)                          | designed     |                 289 |        21 |              0 |      1413.4 |                      19 |                        15 |
 | D3 (CD4-mimetic cyclic)               | designed     |                 293 |        24 |              0 |      1254   |                      22 |                        11 |
 | gp120 / CD4 D1D2 (1GC1, experimental) | experimental |                 332 |        18 |              5 |      1912.5 |                      28 |                        24 |
 | gp120 / b12 Fab (2NY7, experimental)  | experimental |                 326 |        17 |              0 |      1866.6 |                      28 |                        16 |

@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 PA = r"C:\Users\anant\Desktop\hiv_miniprotein_design\paper_analysis"
 rows = json.load(open(os.path.join(PA, "05_tables", "energy_decomposition.json")))
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 11})
+plt.rcParams.update({"font.family": "Arial", "font.size": 11})
 
 order = ["D1 (CD4-mimetic control)", "D2 (de novo bispecific)",
          "D3 (CD4-mimetic cyclic)", "D2' (alternative pose)",

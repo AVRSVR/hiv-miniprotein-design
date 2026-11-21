@@ -31,7 +31,7 @@ VERM, PURPLE, GREY = "#D55E00", "#CC79A7", "#9a9a9a"
 COL = {"CD4": "#8bb8d8", "17b": ORANGE, "D5": GREEN, "D2": ORANGE,
        "D2p": VERM, "D3": PURPLE}
 
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9,
+plt.rcParams.update({"font.family": "Arial", "font.size": 9,
                      "axes.edgecolor": MUTED, "axes.labelcolor": INK,
                      "xtick.color": MUTED, "ytick.color": MUTED,
                      "axes.linewidth": 0.8, "figure.dpi": 300})

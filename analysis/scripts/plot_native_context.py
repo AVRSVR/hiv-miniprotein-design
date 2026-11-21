@@ -28,7 +28,7 @@ COLOR = {"D5": "#009E73", "D1": "#0072B2", "D2": "#E69F00",
 SHORT = {"CD4": "CD4", "17b": "17b", "D1": "D1", "D2": "D2", "D2p": "D2'",
          "D3": "D3", "D5": "D5"}
 
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9,
+plt.rcParams.update({"font.family": "Arial", "font.size": 9,
                      "axes.edgecolor": MUTED, "axes.labelcolor": INK,
                      "xtick.color": MUTED, "ytick.color": MUTED,
                      "axes.linewidth": 0.8, "figure.dpi": 300})

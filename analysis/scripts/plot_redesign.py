@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 RED = r"C:\Users\anant\Desktop\hiv_miniprotein_design\paper_analysis\07_redesign"
 FIG = r"C:\Users\anant\Desktop\hiv_miniprotein_design\paper_analysis\04_figures"
 TBL = r"C:\Users\anant\Desktop\hiv_miniprotein_design\paper_analysis\05_tables"
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 11})
+plt.rcParams.update({"font.family": "Arial", "font.size": 11})
 
 rows = json.load(open(os.path.join(RED, "redesign_d5.json")))
 POS = [("ARG444", "Arg444 (40% cons.)", "#D55E00"),

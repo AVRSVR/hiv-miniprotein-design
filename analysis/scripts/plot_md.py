@@ -38,7 +38,7 @@ MUTED = "#6b6b6b"
 GRID = "#dcdcdc"
 
 plt.rcParams.update({
-    "font.family": "DejaVu Sans", "font.size": 9,
+    "font.family": "Arial", "font.size": 9,
     "axes.edgecolor": MUTED, "axes.labelcolor": INK,
     "xtick.color": MUTED, "ytick.color": MUTED,
     "axes.linewidth": 0.8, "figure.dpi": 300,

@@ -35,7 +35,7 @@ AA3TO1 = {"ALA": "A", "ARG": "R", "ASN": "N", "ASP": "D", "CYS": "C",
 def one(resname):
     return AA3TO1.get(resname.upper(), "X")
 
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9,
+plt.rcParams.update({"font.family": "Arial", "font.size": 9,
                      "axes.edgecolor": MUTED, "axes.labelcolor": INK,
                      "xtick.color": MUTED, "ytick.color": MUTED,
                      "axes.linewidth": 0.8, "figure.dpi": 300})

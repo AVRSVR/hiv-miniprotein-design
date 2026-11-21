@@ -26,7 +26,7 @@ NAME = {"gp120": "gp120\n(the target)", "HSA_1AO6": "serum albumin\n1AO6",
 COLOR = {"gp120": "#009E73", "HSA_1AO6": "#E69F00",
          "lysozyme_1DPX": "#CC79A7", "ubiquitin_1UBQ": "#56B4E9"}
 
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9,
+plt.rcParams.update({"font.family": "Arial", "font.size": 9,
                      "axes.edgecolor": MUTED, "axes.labelcolor": INK,
                      "xtick.color": MUTED, "ytick.color": MUTED,
                      "axes.linewidth": 0.8, "figure.dpi": 300})
